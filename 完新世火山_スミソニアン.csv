@@ -1,0 +1,1250 @@
+title,description,lat,lng,marker-size,marker-color,stroke,stroke-width
+West Eifel Volcanic Field,Volcanic field,50.17,6.85,large,#FF0000,#FFFFFF,2
+Chaine des Puys,Lava dome(s),45.786,2.981,large,#FF0000,#FFFFFF,2
+Olot Volcanic Field,Volcanic field,42.17,2.53,large,#FF0000,#FFFFFF,2
+Calatrava Volcanic Field,Volcanic field,38.87,-4.02,large,#FF0000,#FFFFFF,2
+Colli Albani,Caldera,41.7569,12.7251,large,#FF0000,#FFFFFF,2
+Campi Flegrei,Caldera,40.827,14.139,large,#FF0000,#FFFFFF,2
+Vesuvius,Stratovolcano,40.821,14.426,large,#FF0000,#FFFFFF,2
+Ischia,Complex,40.73,13.897,large,#FF0000,#FFFFFF,2
+Palinuro,Compound,39.48,14.83,large,#FF0000,#FFFFFF,2
+Stromboli,Stratovolcano,38.789,15.213,large,#FF0000,#FFFFFF,2
+Panarea,Stratovolcano,38.638,15.064,large,#FF0000,#FFFFFF,2
+Lipari,Stratovolcano(es),38.49,14.933,large,#FF0000,#FFFFFF,2
+Vulcano,Stratovolcano(es),38.404,14.962,large,#FF0000,#FFFFFF,2
+Etna,Stratovolcano(es),37.748,14.999,large,#FF0000,#FFFFFF,2
+Campi Flegrei del Mar di Sicilia,Volcanic field,37.1,12.7,large,#FF0000,#FFFFFF,2
+Pantelleria,Shield,36.77,12.02,large,#FF0000,#FFFFFF,2
+Marsili,Complex,39.284,14.399,large,#FF0000,#FFFFFF,2
+Methana,Lava dome(s),37.6186,23.3331,large,#FF0000,#FFFFFF,2
+Milos,Stratovolcano(es),36.699,24.439,large,#FF0000,#FFFFFF,2
+Santorini,Shield(s),36.404,25.396,large,#FF0000,#FFFFFF,2
+Kolumbo,Complex,36.524,25.483,large,#FF0000,#FFFFFF,2
+Nisyros,Stratovolcano,36.5888,27.1553,large,#FF0000,#FFFFFF,2
+Kula,Volcanic field,38.58,28.52,large,#FF0000,#FFFFFF,2
+Hasandag-Keciboyduran Volcanic Complex,Stratovolcano,38.13,34.17,large,#FF0000,#FFFFFF,2
+Erciyes Volcanic Complex,Stratovolcano,38.531,35.447,large,#FF0000,#FFFFFF,2
+Karaca Dag,Shield,37.67,39.83,large,#FF0000,#FFFFFF,2
+Nemrut Dagi,Stratovolcano,38.654,42.229,large,#FF0000,#FFFFFF,2
+Tenduruk Dagi,Shield,39.356,43.874,large,#FF0000,#FFFFFF,2
+Ararat,Stratovolcano,39.7,44.3,large,#FF0000,#FFFFFF,2
+Elbrus,Stratovolcano,43.351,42.442,large,#FF0000,#FFFFFF,2
+Kazbek,Stratovolcano,42.7,44.5,large,#FF0000,#FFFFFF,2
+Samsari Volcanic Center,Volcanic field,41.542,43.7,large,#FF0000,#FFFFFF,2
+Aragats,Stratovolcano,40.53,44.2,large,#FF0000,#FFFFFF,2
+Ghegham Volcanic Ridge,Volcanic field,40.283,45,large,#FF0000,#FFFFFF,2
+Vaiyots-Sar,Pyroclastic cone(s),39.797,45.497,large,#FF0000,#FFFFFF,2
+Porak,Volcanic field,40.028,45.74,large,#FF0000,#FFFFFF,2
+Tskhouk-Karckar,Pyroclastic cone(s),39.742,45.992,large,#FF0000,#FFFFFF,2
+"Tair, Jebel at",Stratovolcano,15.55,41.83,large,#FF0000,#FFFFFF,2
+Zubair Group,Shield,15.05,42.18,large,#FF0000,#FFFFFF,2
+Zukur,Shield,14.02,42.75,large,#FF0000,#FFFFFF,2
+Hanish,Shield,13.72,42.73,large,#FF0000,#FFFFFF,2
+Alid,Stratovolcano,14.88,39.92,large,#FF0000,#FFFFFF,2
+Dallol,Explosion crater(s),14.242,40.3,large,#FF0000,#FFFFFF,2
+Gada Ale,Stratovolcano,13.975,40.408,large,#FF0000,#FFFFFF,2
+Alu-Dalafilla,Fissure vent(s),13.793,40.553,large,#FF0000,#FFFFFF,2
+Bora Ale,Stratovolcano,13.725,40.6,large,#FF0000,#FFFFFF,2
+Erta Ale,Shield,13.601,40.666,large,#FF0000,#FFFFFF,2
+Ale Bagu,Stratovolcano,13.512,40.631,large,#FF0000,#FFFFFF,2
+Hayli Gubbi,Shield,13.51,40.722,large,#FF0000,#FFFFFF,2
+Dubbi,Stratovolcano,13.579,41.809,large,#FF0000,#FFFFFF,2
+Nabro,Stratovolcano,13.37,41.7,large,#FF0000,#FFFFFF,2
+Mallahle,Stratovolcano,13.27,41.65,large,#FF0000,#FFFFFF,2
+Sork Ale,Stratovolcano,13.18,41.725,large,#FF0000,#FFFFFF,2
+Asavyo,Shield,13.098,41.599,large,#FF0000,#FFFFFF,2
+Mat Ala,Shield,13.106,41.161,large,#FF0000,#FFFFFF,2
+Tat Ali,Shield,13.284,41.063,large,#FF0000,#FFFFFF,2
+Borawli,Stratovolcano,13.304,40.987,large,#FF0000,#FFFFFF,2
+Afdera,Stratovolcano,13.088,40.853,large,#FF0000,#FFFFFF,2
+Ma Alalta,Stratovolcano,13.013,40.185,large,#FF0000,#FFFFFF,2
+Alayta,Shield,12.888,40.573,large,#FF0000,#FFFFFF,2
+Dabbahu,Stratovolcano,12.595,40.48,large,#FF0000,#FFFFFF,2
+Dabbayra,Shield,12.38,40.07,large,#FF0000,#FFFFFF,2
+Manda Hararo,Shield(s),12.17,40.82,large,#FF0000,#FFFFFF,2
+Groppo,Volcanic field,11.816,40.242,large,#FF0000,#FFFFFF,2
+Kurub,Shield,11.88,41.208,large,#FF0000,#FFFFFF,2
+Manda-Inakir,Fissure vent(s),12.38,42.2,large,#FF0000,#FFFFFF,2
+Mousa Alli,Stratovolcano,12.469,42.404,large,#FF0000,#FFFFFF,2
+Gufa,Volcanic field,12.55,42.53,large,#FF0000,#FFFFFF,2
+Assab Volcanic Field,Volcanic field,12.95,42.43,large,#FF0000,#FFFFFF,2
+Ardoukoba,Fissure vent(s),11.58,42.47,large,#FF0000,#FFFFFF,2
+Manda Gargori,Fissure vent(s),11.75,41.48,large,#FF0000,#FFFFFF,2
+Dama Ali,Shield,11.28,41.63,large,#FF0000,#FFFFFF,2
+Gabillema,Stratovolcano,11.08,41.27,large,#FF0000,#FFFFFF,2
+Yangudi,Complex,10.58,41.042,large,#FF0000,#FFFFFF,2
+Ayelu,Stratovolcano,10.082,40.702,large,#FF0000,#FFFFFF,2
+Adwa,Stratovolcano,10.063,40.831,large,#FF0000,#FFFFFF,2
+Hertali,Fissure vent,9.78,40.33,large,#FF0000,#FFFFFF,2
+Liado Hayk,Volcanic field,9.57,40.28,large,#FF0000,#FFFFFF,2
+Dofen,Shield,9.35,40.13,large,#FF0000,#FFFFFF,2
+Fentale,Stratovolcano,8.985,39.906,large,#FF0000,#FFFFFF,2
+Beru,Volcanic field,8.95,39.75,large,#FF0000,#FFFFFF,2
+Kone,Caldera(s),8.8105,39.6946,large,#FF0000,#FFFFFF,2
+Boset,Stratovolcano(es),8.558,39.475,large,#FF0000,#FFFFFF,2
+Bishoftu Volcanic Field,Volcanic field,8.78,38.98,large,#FF0000,#FFFFFF,2
+Melkassa,Volcanic field,8.43,39.35,large,#FF0000,#FFFFFF,2
+Gedemsa,Caldera,8.363,39.172,large,#FF0000,#FFFFFF,2
+Bora-Bericha-Tullu Moye,Pyroclastic cone,8.2114,39.0812,large,#FF0000,#FFFFFF,2
+Unnamed,Fissure vent(s),8.013,39.062,large,#FF0000,#FFFFFF,2
+East Ziway,Fissure vent(s),7.874,38.902,large,#FF0000,#FFFFFF,2
+Butajiri-Silti Field,Volcanic field,8.05,38.35,large,#FF0000,#FFFFFF,2
+Aluto,Stratovolcano,7.77,38.78,large,#FF0000,#FFFFFF,2
+Shala,Caldera,7.4569,38.5571,large,#FF0000,#FFFFFF,2
+Corbetti,Caldera,7.193,38.39,large,#FF0000,#FFFFFF,2
+Bilate River Field,Volcanic field,7.07,38.1,large,#FF0000,#FFFFFF,2
+Northern Lake Abaya Volcanic Field,Volcanic field,6.76,37.97,large,#FF0000,#FFFFFF,2
+Korath Range,Tuff cone(s),5.117,35.892,large,#FF0000,#FFFFFF,2
+Mega Volcanic Field,Volcanic field,3.971,38.213,large,#FF0000,#FFFFFF,2
+Lake Turkana North Island,Tuff cone(s),4.0631,36.0458,large,#FF0000,#FFFFFF,2
+Lake Turkana Central Island,Tuff cone(s),3.496,36.0365,large,#FF0000,#FFFFFF,2
+Lake Turkana South Island,Stratovolcano,2.6364,36.5958,large,#FF0000,#FFFFFF,2
+Marsabit,Shield,2.32,37.97,large,#FF0000,#FFFFFF,2
+"Barrier, The",Shield,2.32,36.57,large,#FF0000,#FFFFFF,2
+Namarunu,Shield,1.98,36.43,large,#FF0000,#FFFFFF,2
+Segererua Plateau,Pyroclastic cone(s),1.57,37.9,large,#FF0000,#FFFFFF,2
+Emuruangogolak,Shield,1.5,36.33,large,#FF0000,#FFFFFF,2
+Silali,Shield,1.15,36.23,large,#FF0000,#FFFFFF,2
+Paka,Shield,0.92,36.18,large,#FF0000,#FFFFFF,2
+Korosi,Shield,0.77,36.12,large,#FF0000,#FFFFFF,2
+Ol Kokwe,Shield,0.62,36.075,large,#FF0000,#FFFFFF,2
+Nyambeni Hills,Shield,0.23,37.87,large,#FF0000,#FFFFFF,2
+Menengai,Shield,-0.2,36.07,large,#FF0000,#FFFFFF,2
+Homa Mountain,Complex,-0.38,34.5,large,#FF0000,#FFFFFF,2
+Elmenteita Badlands,Pyroclastic cone(s),-0.546,36.249,large,#FF0000,#FFFFFF,2
+"Eburru, Ol Doinyo",Complex,-0.65,36.22,large,#FF0000,#FFFFFF,2
+Olkaria,Pyroclastic cone(s),-0.904,36.292,large,#FF0000,#FFFFFF,2
+Longonot,Stratovolcano,-0.914,36.446,large,#FF0000,#FFFFFF,2
+Suswa,Shield,-1.151,36.357,large,#FF0000,#FFFFFF,2
+"Lengai, Ol Doinyo",Stratovolcano,-2.764,35.914,large,#FF0000,#FFFFFF,2
+Chyulu Hills,Volcanic field,-2.68,37.88,large,#FF0000,#FFFFFF,2
+Meru,Stratovolcano,-3.244,36.75,large,#FF0000,#FFFFFF,2
+Igwisi Hills,Pyroclastic cone(s),-4.889,31.933,large,#FF0000,#FFFFFF,2
+Ngozi,Caldera,-9.0036,33.552,large,#FF0000,#FFFFFF,2
+Rungwe,Stratovolcano,-9.135,33.668,large,#FF0000,#FFFFFF,2
+Kyejo,Stratovolcano,-9.229,33.792,large,#FF0000,#FFFFFF,2
+Fort Portal,Volcanic field,0.7,30.25,large,#FF0000,#FFFFFF,2
+Kyatwa,Volcanic field,0.45,30.25,large,#FF0000,#FFFFFF,2
+Katwe-Kikorongo,Volcanic field,-0.08,29.92,large,#FF0000,#FFFFFF,2
+Bunyaruguru,Volcanic field,-0.2,30.08,large,#FF0000,#FFFFFF,2
+Katunga,Volcanic field,-0.471,30.191,large,#FF0000,#FFFFFF,2
+Nyamulagira,Shield,-1.408,29.2,large,#FF0000,#FFFFFF,2
+Nyiragongo,Stratovolcano,-1.52,29.25,large,#FF0000,#FFFFFF,2
+Karisimbi,Stratovolcano,-1.506,29.45,large,#FF0000,#FFFFFF,2
+Visoke,Stratovolcano,-1.458,29.485,large,#FF0000,#FFFFFF,2
+Muhavura,Stratovolcano,-1.383,29.678,large,#FF0000,#FFFFFF,2
+Bufumbira,Volcanic field,-1.304,29.683,large,#FF0000,#FFFFFF,2
+San Carlos,Shield,3.35,8.52,large,#FF0000,#FFFFFF,2
+San Joaquin,Shield,3.35,8.63,large,#FF0000,#FFFFFF,2
+Santa Isabel,Shield,3.588,8.762,large,#FF0000,#FFFFFF,2
+Cameroon,Stratovolcano,4.203,9.17,large,#FF0000,#FFFFFF,2
+Tombel Graben,Volcanic field,4.758,9.717,large,#FF0000,#FFFFFF,2
+Oku Volcanic Field,Volcanic field,6.25,10.5,large,#FF0000,#FFFFFF,2
+Todra Volcanic Field,Volcanic field,17.68,8.5,large,#FF0000,#FFFFFF,2
+Tahalra Volcanic Field,Volcanic field,22.67,5,large,#FF0000,#FFFFFF,2
+Atakor Volcanic Field,Volcanic field,23.33,5.83,large,#FF0000,#FFFFFF,2
+Manzaz Volcanic Field,Volcanic field,23.92,5.83,large,#FF0000,#FFFFFF,2
+"Toh, Tarso",Volcanic field,21.33,16.33,large,#FF0000,#FFFFFF,2
+"Tousside, Tarso",Stratovolcano,21.0408,16.473,large,#FF0000,#FFFFFF,2
+"Voon, Tarso",Stratovolcano,20.92,17.28,large,#FF0000,#FFFFFF,2
+"Koussi, Emi",Shield(pyroclastic),19.8,18.53,large,#FF0000,#FFFFFF,2
+"Marra, Jebel",Volcanic field,12.95,24.27,large,#FF0000,#FFFFFF,2
+Kutum Volcanic Field,Volcanic field,14.57,25.85,large,#FF0000,#FFFFFF,2
+Meidob Volcanic Field,Volcanic field,15.32,26.47,large,#FF0000,#FFFFFF,2
+Bayuda Volcanic Field,Volcanic field,18.33,32.75,large,#FF0000,#FFFFFF,2
+"Ash Shaam, Harrat",Volcanic field,32.333,37.583,large,#FF0000,#FFFFFF,2
+"Lunayyir, Harrat",Volcanic field,25.17,37.75,large,#FF0000,#FFFFFF,2
+"Ithnayn, Harrat",Volcanic field,26.58,40.2,large,#FF0000,#FFFFFF,2
+"Khaybar, Harrat",Volcanic field,25.5,40,large,#FF0000,#FFFFFF,2
+"Rahat, Harrat",Volcanic field,23.08,39.78,large,#FF0000,#FFFFFF,2
+"Kishb, Harrat",Volcanic field,22.8,41.38,large,#FF0000,#FFFFFF,2
+"Birk, Harrat al",Volcanic field,18.37,41.63,large,#FF0000,#FFFFFF,2
+"Yar, Jabal",Volcanic field,17.05,42.83,large,#FF0000,#FFFFFF,2
+"Arhab, Harra of",Volcanic field,15.6025,44.0978,large,#FF0000,#FFFFFF,2
+"Haylan, Jabal",Volcanic field,15.4,45.1,large,#FF0000,#FFFFFF,2
+"Dhamar, Harras of",Volcanic field,14.57,44.67,large,#FF0000,#FFFFFF,2
+"Sawad, Harra Es-",Volcanic field,13.58,46.12,large,#FF0000,#FFFFFF,2
+Balhaf-Bir Ali Volcanic Field,Volcanic field,14.067,48.3,large,#FF0000,#FFFFFF,2
+Bir Borhut,Volcanic field,15.515,50.935,large,#FF0000,#FFFFFF,2
+Damavand,Stratovolcano,35.951,52.109,large,#FF0000,#FFFFFF,2
+"Grille, La",Shield,-11.47,43.33,large,#FF0000,#FFFFFF,2
+Mayotte,Shield,-12.83,45.17,large,#FF0000,#FFFFFF,2
+Karthala,Shield,-11.75,43.38,large,#FF0000,#FFFFFF,2
+Ambre-Bobaomby,Volcanic field,-12.6,49.15,large,#FF0000,#FFFFFF,2
+Nosy-Be,Volcanic field,-13.32,48.48,large,#FF0000,#FFFFFF,2
+Ankaizina Field,Volcanic field,-14.3,48.67,large,#FF0000,#FFFFFF,2
+Itasy Volcanic Field,Volcanic field,-19.033,46.7,large,#FF0000,#FFFFFF,2
+Vakinankaratra,Volcanic field,-19.85,46.942,large,#FF0000,#FFFFFF,2
+"Fournaise, Piton de la",Shield,-21.244,55.708,large,#FF0000,#FFFFFF,2
+Boomerang Seamount,Caldera,-37.7216,77.8221,large,#FF0000,#FFFFFF,2
+Amsterdam Island,Stratovolcano,-37.83,77.52,large,#FF0000,#FFFFFF,2
+St. Paul,Stratovolcano,-38.72,77.53,large,#FF0000,#FFFFFF,2
+Heard,Stratovolcano,-53.106,73.513,large,#FF0000,#FFFFFF,2
+McDonald Islands,Complex,-53.0394,72.595,large,#FF0000,#FFFFFF,2
+Kerguelen Islands,Stratovolcano(es),-49.58,69.5,large,#FF0000,#FFFFFF,2
+"Est, Ile de l'",Stratovolcano,-46.43,52.2,large,#FF0000,#FFFFFF,2
+"Possession, Ile de la",Stratovolcano,-46.42,51.75,large,#FF0000,#FFFFFF,2
+"Cochons, Ile aux",Stratovolcano,-46.1,50.23,large,#FF0000,#FFFFFF,2
+Prince Edward Island,Shield,-46.63,37.95,large,#FF0000,#FFFFFF,2
+Marion Island,Shield(s),-46.9,37.75,large,#FF0000,#FFFFFF,2
+Auckland Volcanic Field,Volcanic field,-36.89,174.81,large,#FF0000,#FFFFFF,2
+Tuhua/Mayor Island,Shield,-37.28,176.25,large,#FF0000,#FFFFFF,2
+Taranaki,Stratovolcano,-39.3,174.07,large,#FF0000,#FFFFFF,2
+Whakaari/White Island,Stratovolcano(es),-37.52,177.18,large,#FF0000,#FFFFFF,2
+Okataina,Lava dome(s),-38.1569,176.5069,large,#FF0000,#FFFFFF,2
+Taupo,Caldera,-38.7811,175.893,large,#FF0000,#FFFFFF,2
+Tongariro,Stratovolcano(es),-39.157,175.632,large,#FF0000,#FFFFFF,2
+Ruapehu,Stratovolcano,-39.28,175.57,large,#FF0000,#FFFFFF,2
+Clark,Stratovolcano,-36.446,177.839,large,#FF0000,#FFFFFF,2
+Tangaroa,Stratovolcano,-36.321,178.028,large,#FF0000,#FFFFFF,2
+Rumble V,Stratovolcano,-36.142,178.196,large,#FF0000,#FFFFFF,2
+Rumble IV,Stratovolcano,-36.13,178.05,large,#FF0000,#FFFFFF,2
+Rumble III,Stratovolcano,-35.745,178.478,large,#FF0000,#FFFFFF,2
+Rumble II West,Stratovolcano,-35.353,178.527,large,#FF0000,#FFFFFF,2
+Healy,Stratovolcano,-35.004,178.973,large,#FF0000,#FFFFFF,2
+Brothers,Caldera,-34.875,179.0667,large,#FF0000,#FFFFFF,2
+Wright,Stratovolcano(es),-31.85,-179.18,large,#FF0000,#FFFFFF,2
+Havre Seamount,Stratovolcano,-31.08,-179.033,large,#FF0000,#FFFFFF,2
+Curtis Island,Stratovolcano,-30.543,-178.556,large,#FF0000,#FFFFFF,2
+Macauley,Caldera,-30.21,-178.475,large,#FF0000,#FFFFFF,2
+Giggenbach,Stratovolcano,-30.036,-178.712,large,#FF0000,#FFFFFF,2
+Raoul Island,Stratovolcano,-29.27,-177.92,large,#FF0000,#FFFFFF,2
+Monowai,Stratovolcano,-25.887,-177.188,large,#FF0000,#FFFFFF,2
+Unnamed,Stratovolcano,-24.8,-177.02,large,#FF0000,#FFFFFF,2
+Unnamed,Stratovolcano,-21.338,-175.65,large,#FF0000,#FFFFFF,2
+Unnamed,Stratovolcano,-21.15,-175.75,large,#FF0000,#FFFFFF,2
+Unnamed,Stratovolcano,-20.852,-175.55,large,#FF0000,#FFFFFF,2
+Hunga Tonga-Hunga Ha'apai,Caldera,-20.5532,-175.3841,large,#FF0000,#FFFFFF,2
+Fonuafo'ou,Stratovolcano,-20.32,-175.42,large,#FF0000,#FFFFFF,2
+Tofua,Caldera,-19.75,-175.07,large,#FF0000,#FFFFFF,2
+Kao,Stratovolcano,-19.668,-175.016,large,#FF0000,#FFFFFF,2
+Lateiki,Stratovolcano,-19.18,-174.87,large,#FF0000,#FFFFFF,2
+Home Reef,Stratovolcano,-18.992,-174.775,large,#FF0000,#FFFFFF,2
+Late,Stratovolcano,-18.806,-174.65,large,#FF0000,#FFFFFF,2
+Unnamed,Stratovolcano,-18.325,-174.365,large,#FF0000,#FFFFFF,2
+Fonualei,Stratovolcano,-18.023,-174.317,large,#FF0000,#FFFFFF,2
+Tafahi,Stratovolcano,-15.854,-173.747,large,#FF0000,#FFFFFF,2
+Curacoa,Complex,-15.62,-173.67,large,#FF0000,#FFFFFF,2
+Niuafo'ou,Shield,-15.6,-175.63,large,#FF0000,#FFFFFF,2
+Dugong,Shield,-15.431,-175.725,large,#FF0000,#FFFFFF,2
+Lobster,Shield,-15.333,-176.283,large,#FF0000,#FFFFFF,2
+Tafu-Maka,Fissure vent,-15.37,-174.23,large,#FF0000,#FFFFFF,2
+West Mata,Fissure vent(s),-15.1,-173.75,large,#FF0000,#FFFFFF,2
+Niuatahi,Caldera,-15.3675,-174.0028,large,#FF0000,#FFFFFF,2
+Vailulu'u,Shield,-14.215,-169.058,large,#FF0000,#FFFFFF,2
+Ta'u,Shield,-14.23,-169.454,large,#FF0000,#FFFFFF,2
+Ofu-Olosega,Shield(s),-14.175,-169.618,large,#FF0000,#FFFFFF,2
+Tutuila,Tuff cone(s),-14.2903,-170.7019,large,#FF0000,#FFFFFF,2
+Malumalu,Stratovolcano,-14.601,-169.787,large,#FF0000,#FFFFFF,2
+Upolu,Shield,-13.935,-171.72,large,#FF0000,#FFFFFF,2
+Savaii,Shield,-13.612,-172.525,large,#FF0000,#FFFFFF,2
+Taveuni,Shield,-16.8412,-179.9644,large,#FF0000,#FFFFFF,2
+Nabukelevu,Lava dome(s),-19.1181,177.9815,large,#FF0000,#FFFFFF,2
+St. Andrew Strait,Complex,-2.38,147.35,large,#FF0000,#FFFFFF,2
+Central Bismarck Sea,Fissure vent,-3.03,147.78,large,#FF0000,#FFFFFF,2
+Blup Blup,Stratovolcano,-3.507,144.605,large,#FF0000,#FFFFFF,2
+Kadovar,Stratovolcano,-3.608,144.588,large,#FF0000,#FFFFFF,2
+Bam,Stratovolcano,-3.613,144.818,large,#FF0000,#FFFFFF,2
+Manam,Stratovolcano,-4.08,145.037,large,#FF0000,#FFFFFF,2
+Karkar,Stratovolcano,-4.647,145.976,large,#FF0000,#FFFFFF,2
+Hankow Reef,Stratovolcano,-4.883,146.717,large,#FF0000,#FFFFFF,2
+Long Island,Complex,-5.358,147.12,large,#FF0000,#FFFFFF,2
+Umboi,Complex,-5.592,147.892,large,#FF0000,#FFFFFF,2
+Ritter Island,Stratovolcano,-5.519,148.115,large,#FF0000,#FFFFFF,2
+Sakar,Stratovolcano,-5.4098,148.0836,large,#FF0000,#FFFFFF,2
+Langila,Complex,-5.525,148.42,large,#FF0000,#FFFFFF,2
+Dakataua,Caldera,-5.0455,150.0996,large,#FF0000,#FFFFFF,2
+Bola,Stratovolcano,-5.141,150.038,large,#FF0000,#FFFFFF,2
+Garua Harbour,Volcanic field,-5.3,150.07,large,#FF0000,#FFFFFF,2
+Krummel-Garbuna-Welcker,Stratovolcano(es),-5.416,150.027,large,#FF0000,#FFFFFF,2
+Lolo,Stratovolcano,-5.466,150.509,large,#FF0000,#FFFFFF,2
+Witori,Caldera,-5.5745,150.5161,large,#FF0000,#FFFFFF,2
+Sulu Range,Stratovolcano(es),-5.5,150.942,large,#FF0000,#FFFFFF,2
+Hargy,Stratovolcano,-5.33,151.1,large,#FF0000,#FFFFFF,2
+Bamus,Stratovolcano,-5.2,151.23,large,#FF0000,#FFFFFF,2
+Ulawun,Stratovolcano,-5.05,151.33,large,#FF0000,#FFFFFF,2
+Lolobau,Caldera,-4.9156,151.1617,large,#FF0000,#FFFFFF,2
+Rabaul,Caldera,-4.2459,152.1937,large,#FF0000,#FFFFFF,2
+Tavui,Caldera,-4.1089,152.2134,large,#FF0000,#FFFFFF,2
+Lamington,Stratovolcano,-8.95,148.15,large,#FF0000,#FFFFFF,2
+Hydrographers Range,Stratovolcano,-9,148.37,large,#FF0000,#FFFFFF,2
+Managlase Plateau,Volcanic field,-9.08,148.33,large,#FF0000,#FFFFFF,2
+Victory,Stratovolcano,-9.2003,149.072,large,#FF0000,#FFFFFF,2
+Sessagara Hills,Volcanic field,-9.5542,149.1278,large,#FF0000,#FFFFFF,2
+Goodenough,Volcanic field,-9.358,150.246,large,#FF0000,#FFFFFF,2
+Iamalele,Lava dome(s),-9.5056,150.5239,large,#FF0000,#FFFFFF,2
+Dawson Strait Group,Volcanic field,-9.62,150.88,large,#FF0000,#FFFFFF,2
+Balbi,Stratovolcano,-5.9156,155.0008,large,#FF0000,#FFFFFF,2
+Billy Mitchell,Caldera,-6.0898,155.2254,large,#FF0000,#FFFFFF,2
+Bagana,Lava cone,-6.137,155.196,large,#FF0000,#FFFFFF,2
+Takuan Group,Compound,-6.442,155.608,large,#FF0000,#FFFFFF,2
+Loloru,Compound,-6.52,155.62,large,#FF0000,#FFFFFF,2
+Simbo,Stratovolcano(es),-8.292,156.52,large,#FF0000,#FFFFFF,2
+Kana Keoki,Stratovolcano,-8.75,157.03,large,#FF0000,#FFFFFF,2
+Coleman Seamount,Stratovolcano,-8.841,157.16,large,#FF0000,#FFFFFF,2
+Kavachi,Stratovolcano,-8.991,157.979,large,#FF0000,#FFFFFF,2
+New Georgia at 8.9°S,Stratovolcano,-8.92,158.03,large,#FF0000,#FFFFFF,2
+Savo,Stratovolcano,-9.1324,159.8119,large,#FF0000,#FFFFFF,2
+Tinakula,Stratovolcano,-10.386,165.804,large,#FF0000,#FFFFFF,2
+Motlav,Stratovolcano,-13.67,167.67,large,#FF0000,#FFFFFF,2
+Suretamatai,Complex,-13.8,167.47,large,#FF0000,#FFFFFF,2
+Gaua,Stratovolcano,-14.281,167.514,large,#FF0000,#FFFFFF,2
+Ambae,Shield,-15.389,167.835,large,#FF0000,#FFFFFF,2
+Ambrym,Shield(pyroclastic),-16.25,168.12,large,#FF0000,#FFFFFF,2
+Lopevi,Stratovolcano,-16.507,168.346,large,#FF0000,#FFFFFF,2
+East Epi,Stratovolcano(es),-16.6797,168.3893,large,#FF0000,#FFFFFF,2
+Kuwae,Caldera,-16.8304,168.5227,large,#FF0000,#FFFFFF,2
+Nguna-Emau,Stratovolcano(es),-17.4522,168.353,large,#FF0000,#FFFFFF,2
+Traitor's Head,Stratovolcano,-18.754,169.238,large,#FF0000,#FFFFFF,2
+Yasur,Stratovolcano,-19.532,169.447,large,#FF0000,#FFFFFF,2
+Gemini-Oscostar,Stratovolcano,-20.957,170.13,large,#FF0000,#FFFFFF,2
+Matthew Island,Stratovolcano,-22.33,171.32,large,#FF0000,#FFFFFF,2
+Hunter Island,Stratovolcano,-22.4,172.05,large,#FF0000,#FFFFFF,2
+Newer Volcanics Province,Volcanic field,-37.77,142.5,large,#FF0000,#FFFFFF,2
+McBride Volcanic Province,Volcanic field,-18.367,144.567,large,#FF0000,#FFFFFF,2
+Narcondum,Stratovolcano,13.43,94.28,large,#FF0000,#FFFFFF,2
+Barren Island,Stratovolcano,12.278,93.858,large,#FF0000,#FFFFFF,2
+Peuet Sague,Complex,4.903,96.289,large,#FF0000,#FFFFFF,2
+"Telong, Bur ni",Stratovolcano,4.769,96.821,large,#FF0000,#FFFFFF,2
+Singkut,Caldera(s),3.2379,98.5127,large,#FF0000,#FFFFFF,2
+Sinabung,Stratovolcano,3.17,98.392,large,#FF0000,#FFFFFF,2
+Toba,Caldera,2.6083,98.8417,large,#FF0000,#FFFFFF,2
+Sorikmarapi,Stratovolcano,0.686,99.539,large,#FF0000,#FFFFFF,2
+Malintang,Stratovolcano,0.47,99.67,large,#FF0000,#FFFFFF,2
+Talakmau,Complex,0.079,99.98,large,#FF0000,#FFFFFF,2
+Marapi,Complex,-0.38,100.474,large,#FF0000,#FFFFFF,2
+Tandikat-Singgalang,Stratovolcano(es),-0.39,100.331,large,#FF0000,#FFFFFF,2
+Talang,Stratovolcano,-0.979,100.681,large,#FF0000,#FFFFFF,2
+Kerinci,Stratovolcano,-1.697,101.264,large,#FF0000,#FFFFFF,2
+Sumbing,Stratovolcano,-2.414,101.728,large,#FF0000,#FFFFFF,2
+Kaba,Stratovolcano,-3.522,102.615,large,#FF0000,#FFFFFF,2
+Dempo,Stratovolcano(es),-4.016,103.121,large,#FF0000,#FFFFFF,2
+Patah,Stratovolcano?,-4.257,103.306,large,#FF0000,#FFFFFF,2
+Ranau,Caldera,-4.871,103.925,large,#FF0000,#FFFFFF,2
+Suoh,Caldera(s),-5.25,104.27,large,#FF0000,#FFFFFF,2
+Krakatau,Caldera,-6.1009,105.4233,large,#FF0000,#FFFFFF,2
+Pulosari,Stratovolcano,-6.343,105.978,large,#FF0000,#FFFFFF,2
+Karang,Stratovolcano,-6.268,106.05,large,#FF0000,#FFFFFF,2
+Perbakti-Gagak,Stratovolcano(es),-6.75,106.675,large,#FF0000,#FFFFFF,2
+Salak,Stratovolcano,-6.716,106.733,large,#FF0000,#FFFFFF,2
+Gede-Pangrango,Stratovolcano(es),-6.786,106.983,large,#FF0000,#FFFFFF,2
+Patuha,Stratovolcano,-7.162,107.4,large,#FF0000,#FFFFFF,2
+Tangkuban Parahu,Stratovolcano,-6.77,107.6,large,#FF0000,#FFFFFF,2
+Papandayan,Stratovolcano(es),-7.32,107.73,large,#FF0000,#FFFFFF,2
+Kendang,Stratovolcano,-7.245,107.709,large,#FF0000,#FFFFFF,2
+Guntur,Complex,-7.143,107.841,large,#FF0000,#FFFFFF,2
+Tampomas,Stratovolcano,-6.7639,107.9612,large,#FF0000,#FFFFFF,2
+Galunggung,Stratovolcano,-7.25,108.058,large,#FF0000,#FFFFFF,2
+Talagabodas,Stratovolcano,-7.208,108.07,large,#FF0000,#FFFFFF,2
+Ciremai,Stratovolcano,-6.895,108.408,large,#FF0000,#FFFFFF,2
+Slamet,Stratovolcano,-7.242,109.208,large,#FF0000,#FFFFFF,2
+Dieng Volcanic Complex,Complex,-7.2,109.879,large,#FF0000,#FFFFFF,2
+Sundoro,Stratovolcano,-7.302,109.996,large,#FF0000,#FFFFFF,2
+Sumbing,Stratovolcano,-7.384,110.07,large,#FF0000,#FFFFFF,2
+Merbabu,Stratovolcano,-7.454,110.44,large,#FF0000,#FFFFFF,2
+Merapi,Stratovolcano,-7.54,110.446,large,#FF0000,#FFFFFF,2
+Lawu,Stratovolcano,-7.625,111.192,large,#FF0000,#FFFFFF,2
+Wilis,Stratovolcano,-7.808,111.758,large,#FF0000,#FFFFFF,2
+Kelud,Stratovolcano,-7.935,112.314,large,#FF0000,#FFFFFF,2
+Kawi-Butak,Stratovolcano(es),-7.92,112.45,large,#FF0000,#FFFFFF,2
+Arjuno-Welirang,Stratovolcano,-7.733,112.575,large,#FF0000,#FFFFFF,2
+Penanggungan,Stratovolcano,-7.616,112.62,large,#FF0000,#FFFFFF,2
+Semeru,Stratovolcano,-8.108,112.922,large,#FF0000,#FFFFFF,2
+Tengger Caldera,Stratovolcano(es),-7.942,112.95,large,#FF0000,#FFFFFF,2
+Lamongan,Stratovolcano,-7.981,113.341,large,#FF0000,#FFFFFF,2
+Iyang-Argapura,Complex,-7.97,113.57,large,#FF0000,#FFFFFF,2
+Raung,Stratovolcano,-8.119,114.056,large,#FF0000,#FFFFFF,2
+Ijen,Stratovolcano(es),-8.058,114.242,large,#FF0000,#FFFFFF,2
+Baluran,Stratovolcano,-7.85,114.37,large,#FF0000,#FFFFFF,2
+Buyan-Bratan,Caldera,-8.283,115.133,large,#FF0000,#FFFFFF,2
+Batur,Caldera,-8.2403,115.3775,large,#FF0000,#FFFFFF,2
+Agung,Stratovolcano,-8.343,115.508,large,#FF0000,#FFFFFF,2
+Rinjani,Stratovolcano,-8.42,116.47,large,#FF0000,#FFFFFF,2
+Tambora,Stratovolcano,-8.25,118,large,#FF0000,#FFFFFF,2
+Sangeang Api,Complex,-8.2,119.07,large,#FF0000,#FFFFFF,2
+"Sano, Wai",Caldera,-8.7345,120.0074,large,#FF0000,#FFFFFF,2
+Ranakah,Lava dome(s),-8.637,120.5302,large,#FF0000,#FFFFFF,2
+Inierie,Stratovolcano,-8.875,120.95,large,#FF0000,#FFFFFF,2
+Inielika,Complex,-8.73,120.98,large,#FF0000,#FFFFFF,2
+Ebulobo,Stratovolcano,-8.817,121.191,large,#FF0000,#FFFFFF,2
+Iya,Stratovolcano,-8.891,121.641,large,#FF0000,#FFFFFF,2
+Kelimutu,Complex,-8.77,121.82,large,#FF0000,#FFFFFF,2
+Paluweh,Stratovolcano,-8.32,121.708,large,#FF0000,#FFFFFF,2
+Egon,Stratovolcano,-8.676,122.455,large,#FF0000,#FFFFFF,2
+Lewotobi,Stratovolcano(es),-8.542,122.775,large,#FF0000,#FFFFFF,2
+Iliboleng,Stratovolcano,-8.342,123.258,large,#FF0000,#FFFFFF,2
+Lewotolok,Stratovolcano,-8.274,123.508,large,#FF0000,#FFFFFF,2
+Ililabalekan,Stratovolcano,-8.55,123.38,large,#FF0000,#FFFFFF,2
+Iliwerung,Complex,-8.532,123.573,large,#FF0000,#FFFFFF,2
+"Tara, Batu",Stratovolcano,-7.791,123.585,large,#FF0000,#FFFFFF,2
+Sirung,Complex,-8.4972,124.1306,large,#FF0000,#FFFFFF,2
+Wurlali,Stratovolcano,-7.125,128.675,large,#FF0000,#FFFFFF,2
+Teon,Stratovolcano,-6.976,129.144,large,#FF0000,#FFFFFF,2
+Nila,Stratovolcano,-6.73,129.5,large,#FF0000,#FFFFFF,2
+Serua,Stratovolcano,-6.312,130.017,large,#FF0000,#FFFFFF,2
+Manuk,Stratovolcano,-5.543,130.303,large,#FF0000,#FFFFFF,2
+Banda Api,Caldera,-4.523,129.881,large,#FF0000,#FFFFFF,2
+Colo,Stratovolcano,-0.162,121.601,large,#FF0000,#FFFFFF,2
+Ambang,Complex,0.75,124.42,large,#FF0000,#FFFFFF,2
+Soputan,Stratovolcano,1.112,124.737,large,#FF0000,#FFFFFF,2
+Lokon-Empung,Stratovolcano(es),1.3644,124.7992,large,#FF0000,#FFFFFF,2
+Mahawu,Stratovolcano,1.352,124.865,large,#FF0000,#FFFFFF,2
+Klabat,Stratovolcano,1.454,125.031,large,#FF0000,#FFFFFF,2
+Tangkoko-Duasudara,Stratovolcano,1.518,125.185,large,#FF0000,#FFFFFF,2
+Ruang,Stratovolcano,2.3058,125.3671,large,#FF0000,#FFFFFF,2
+Karangetang,Stratovolcano,2.781,125.407,large,#FF0000,#FFFFFF,2
+Banua Wuhu,Complex,3.1463,125.4422,large,#FF0000,#FFFFFF,2
+Awu,Stratovolcano,3.689,125.447,large,#FF0000,#FFFFFF,2
+Tarakan,Pyroclastic cone(s),1.832,127.825,large,#FF0000,#FFFFFF,2
+Dukono,Complex,1.6992,127.8783,large,#FF0000,#FFFFFF,2
+Tobaru,Stratovolcano,1.63,127.67,large,#FF0000,#FFFFFF,2
+Ibu,Stratovolcano,1.488,127.63,large,#FF0000,#FFFFFF,2
+Gamkonora,Stratovolcano,1.38,127.53,large,#FF0000,#FFFFFF,2
+Todoko-Ranu,Caldera(s),1.2389,127.4556,large,#FF0000,#FFFFFF,2
+Jailolo,Stratovolcano,1.08,127.439,large,#FF0000,#FFFFFF,2
+Hiri,Stratovolcano,0.9,127.32,large,#FF0000,#FFFFFF,2
+Gamalama,Stratovolcano(es),0.81,127.3322,large,#FF0000,#FFFFFF,2
+Kie Matubu,Stratovolcano,0.6623,127.4029,large,#FF0000,#FFFFFF,2
+Mare,Stratovolcano,0.57,127.4,large,#FF0000,#FFFFFF,2
+Moti,Stratovolcano,0.454,127.411,large,#FF0000,#FFFFFF,2
+Kie Besi,Stratovolcano,0.32,127.4,large,#FF0000,#FFFFFF,2
+Tigalalu,Stratovolcano,0.07,127.42,large,#FF0000,#FFFFFF,2
+Amasing,Stratovolcano(es),-0.5249,127.4956,large,#FF0000,#FFFFFF,2
+Bibinoi,Stratovolcano(es),-0.761,127.725,large,#FF0000,#FFFFFF,2
+Melebingoy,Stratovolcano,6.113,124.892,large,#FF0000,#FFFFFF,2
+Matutum,Stratovolcano,6.3604,125.0765,large,#FF0000,#FFFFFF,2
+Leonard Range,Stratovolcano,7.382,126.047,large,#FF0000,#FFFFFF,2
+Makaturing,Stratovolcano,7.644,124.317,large,#FF0000,#FFFFFF,2
+Ragang,Stratovolcano,7.691,124.507,large,#FF0000,#FFFFFF,2
+Musuan,Lava dome,7.8765,125.0697,large,#FF0000,#FFFFFF,2
+Camiguin,Stratovolcano(es),9.203,124.673,large,#FF0000,#FFFFFF,2
+Kanlaon,Stratovolcano,10.4096,123.13,large,#FF0000,#FFFFFF,2
+Cabalían,Stratovolcano,10.285,125.218,large,#FF0000,#FFFFFF,2
+Biliran,Compound,11.523,124.535,large,#FF0000,#FFFFFF,2
+Bulusan,Stratovolcano(es),12.769,124.056,large,#FF0000,#FFFFFF,2
+Mayon,Stratovolcano,13.257,123.685,large,#FF0000,#FFFFFF,2
+Iriga,Stratovolcano,13.458,123.451,large,#FF0000,#FFFFFF,2
+Isarog,Stratovolcano,13.658,123.38,large,#FF0000,#FFFFFF,2
+Banahaw,Complex,14.07,121.48,large,#FF0000,#FFFFFF,2
+San Pablo Volcanic Field,Volcanic field,14.12,121.3,large,#FF0000,#FFFFFF,2
+Taal,Caldera,14.0106,120.9975,large,#FF0000,#FFFFFF,2
+Pinatubo,Stratovolcano,15.13,120.35,large,#FF0000,#FFFFFF,2
+Cagua,Stratovolcano,18.222,122.123,large,#FF0000,#FFFFFF,2
+Camiguin de Babuyanes,Stratovolcano,18.83,121.86,large,#FF0000,#FFFFFF,2
+Didicas,Compound,19.077,122.202,large,#FF0000,#FFFFFF,2
+Babuyan Claro,Stratovolcano(es),19.524,121.95,large,#FF0000,#FFFFFF,2
+Iraya,Stratovolcano,20.469,122.01,large,#FF0000,#FFFFFF,2
+Hainan Volcanic Field,Volcanic field,19.905,110.229,large,#FF0000,#FFFFFF,2
+Ly Son Group,Volcanic field,15.38,109.12,large,#FF0000,#FFFFFF,2
+"Cendres, Ile des",Volcanic field,10.158,109.014,large,#FF0000,#FFFFFF,2
+Popa,Stratovolcano,20.92,95.25,large,#FF0000,#FFFFFF,2
+Tengchong,Volcanic field,25.23,98.5,large,#FF0000,#FFFFFF,2
+Kueishantao,Stratovolcano,24.841,121.953,large,#FF0000,#FFFFFF,2
+Tatun Volcanic Group,Lava dome(s),25.178,121.553,large,#FF0000,#FFFFFF,2
+Submarine Volcano NNE of Iriomotejima,Stratovolcano,24.57,123.93,large,#FF0000,#FFFFFF,2
+Io-Torishima,Complex,27.881,128.223,large,#FF0000,#FFFFFF,2
+Yokoatejima,Stratovolcano(es),28.797,128.997,large,#FF0000,#FFFFFF,2
+Akusekijima,Stratovolcano(es),29.465,129.594,large,#FF0000,#FFFFFF,2
+Suwanosejima,Stratovolcano(es),29.638,129.714,large,#FF0000,#FFFFFF,2
+Nakanoshima,Stratovolcano(es),29.859,129.857,large,#FF0000,#FFFFFF,2
+Kuchinoshima,Stratovolcano(es),29.968,129.926,large,#FF0000,#FFFFFF,2
+Kuchinoerabujima,Stratovolcano(es),30.443,130.217,large,#FF0000,#FFFFFF,2
+Kikai,Caldera,30.793,130.305,large,#FF0000,#FFFFFF,2
+Ata,Caldera(s),31.22,130.57,large,#FF0000,#FFFFFF,2
+Aira,Caldera,31.5772,130.6589,large,#FF0000,#FFFFFF,2
+Yonemaru-Sumiyoshiike,Maar(s),31.771,130.592,large,#FF0000,#FFFFFF,2
+Kirishimayama,Shield,31.934,130.862,large,#FF0000,#FFFFFF,2
+Fukue,Volcanic field,32.657,128.849,large,#FF0000,#FFFFFF,2
+Unzendake,Complex,32.761,130.299,large,#FF0000,#FFFFFF,2
+Asosan,Caldera,32.8849,131.085,large,#FF0000,#FFFFFF,2
+Kujusan,Stratovolcano(es),33.086,131.249,large,#FF0000,#FFFFFF,2
+Yufu-Tsurumi,Lava dome(s),33.282,131.39,large,#FF0000,#FFFFFF,2
+Abu,Volcanic field,34.4833,131.5167,large,#FF0000,#FFFFFF,2
+Sanbesan,Stratovolcano,35.141,132.622,large,#FF0000,#FFFFFF,2
+Izu-Tobu,Pyroclastic cone(s),34.9,139.098,large,#FF0000,#FFFFFF,2
+Hakoneyama,Complex,35.233,139.021,large,#FF0000,#FFFFFF,2
+Fujisan,Stratovolcano,35.361,138.728,large,#FF0000,#FFFFFF,2
+Yokodake,Stratovolcano(es),36.087,138.32,large,#FF0000,#FFFFFF,2
+Ontakesan,Complex,35.893,137.48,large,#FF0000,#FFFFFF,2
+Hakusan,Stratovolcano,36.155,136.771,large,#FF0000,#FFFFFF,2
+Norikuradake,Stratovolcano(es),36.106,137.554,large,#FF0000,#FFFFFF,2
+Akandanayama,Stratovolcano,36.2,137.573,large,#FF0000,#FFFFFF,2
+Yakedake,Stratovolcano(es),36.227,137.587,large,#FF0000,#FFFFFF,2
+Midagahara,Stratovolcano,36.571,137.59,large,#FF0000,#FFFFFF,2
+Niigata-Yakeyama,Lava dome,36.921,138.036,large,#FF0000,#FFFFFF,2
+Myokosan,Stratovolcano,36.891,138.114,large,#FF0000,#FFFFFF,2
+Asamayama,Complex,36.406,138.523,large,#FF0000,#FFFFFF,2
+Kusatsu-Shiranesan,Stratovolcano(es),36.618,138.528,large,#FF0000,#FFFFFF,2
+Shiga,Shield(s),36.688,138.519,large,#FF0000,#FFFFFF,2
+Harunasan,Stratovolcano,36.477,138.851,large,#FF0000,#FFFFFF,2
+Akagisan,Stratovolcano,36.56,139.193,large,#FF0000,#FFFFFF,2
+Hiuchigatake,Stratovolcano,36.955,139.285,large,#FF0000,#FFFFFF,2
+Nikko-Shiranesan,Shield,36.799,139.376,large,#FF0000,#FFFFFF,2
+Nantaisan,Stratovolcano,36.765,139.491,large,#FF0000,#FFFFFF,2
+Omanago Group,Lava dome(s),36.8067,139.4756,large,#FF0000,#FFFFFF,2
+Takaharayama,Stratovolcano,36.9,139.777,large,#FF0000,#FFFFFF,2
+Nasudake,Stratovolcano(es),37.125,139.963,large,#FF0000,#FFFFFF,2
+Numazawa,Shield,37.444,139.566,large,#FF0000,#FFFFFF,2
+Bandaisan,Stratovolcano,37.601,140.072,large,#FF0000,#FFFFFF,2
+Adatarayama,Stratovolcano(es),37.647,140.281,large,#FF0000,#FFFFFF,2
+Azumayama,Stratovolcano(es),37.735,140.244,large,#FF0000,#FFFFFF,2
+Zaozan [Zaosan],Complex,38.144,140.44,large,#FF0000,#FFFFFF,2
+Hijiori,Caldera,38.5992,140.1617,large,#FF0000,#FFFFFF,2
+Naruko,Caldera,38.729,140.734,large,#FF0000,#FFFFFF,2
+Kurikomayama,Stratovolcano,38.961,140.788,large,#FF0000,#FFFFFF,2
+Chokaisan,Stratovolcano(es),39.099,140.049,large,#FF0000,#FFFFFF,2
+Akita-Komagatake,Stratovolcano(es),39.761,140.799,large,#FF0000,#FFFFFF,2
+Iwatesan,Complex,39.853,141.001,large,#FF0000,#FFFFFF,2
+Hachimantai,Stratovolcano,39.958,140.854,large,#FF0000,#FFFFFF,2
+Akita-Yakeyama,Stratovolcano,39.964,140.757,large,#FF0000,#FFFFFF,2
+Megata,Maar(s),39.95,139.725,large,#FF0000,#FFFFFF,2
+Iwakisan,Stratovolcano,40.656,140.303,large,#FF0000,#FFFFFF,2
+Towada,Caldera,40.51,140.88,large,#FF0000,#FFFFFF,2
+Hakkodasan,Stratovolcano(es),40.659,140.877,large,#FF0000,#FFFFFF,2
+Osorezan,Stratovolcano,41.279,141.12,large,#FF0000,#FFFFFF,2
+Izu-Oshima,Stratovolcano,34.724,139.394,large,#FF0000,#FFFFFF,2
+Toshima,Stratovolcano,34.52,139.279,large,#FF0000,#FFFFFF,2
+Niijima,Lava dome(s),34.397,139.27,large,#FF0000,#FFFFFF,2
+Kozushima,Lava dome(s),34.219,139.153,large,#FF0000,#FFFFFF,2
+Miyakejima,Stratovolcano,34.094,139.526,large,#FF0000,#FFFFFF,2
+Mikurajima,Stratovolcano,33.874,139.602,large,#FF0000,#FFFFFF,2
+Kurose Hole,Caldera,33.4,139.68,large,#FF0000,#FFFFFF,2
+Hachijojima,Stratovolcano(es),33.137,139.766,large,#FF0000,#FFFFFF,2
+Aogashima,Stratovolcano,32.458,139.759,large,#FF0000,#FFFFFF,2
+Kita-Bayonnaise,Caldera,32.1,139.85,large,#FF0000,#FFFFFF,2
+Myojinsho,Caldera,31.888,139.918,large,#FF0000,#FFFFFF,2
+Sumisujima,Caldera,31.44,140.051,large,#FF0000,#FFFFFF,2
+Izu-Torishima,Stratovolcano,30.484,140.303,large,#FF0000,#FFFFFF,2
+Sofugan,Stratovolcano,29.794,140.342,large,#FF0000,#FFFFFF,2
+Suiyo Seamount,Stratovolcano,28.575,140.633,large,#FF0000,#FFFFFF,2
+Mokuyo Seamount,Stratovolcano,28.327,140.572,large,#FF0000,#FFFFFF,2
+Doyo Seamount,Stratovolcano,27.68,140.8,large,#FF0000,#FFFFFF,2
+Nishinoshima,Caldera,27.247,140.874,large,#FF0000,#FFFFFF,2
+Kaikata Seamount,Stratovolcano,26.667,140.929,large,#FF0000,#FFFFFF,2
+Kaitoku Seamount,Stratovolcano,26.1217,141.0955,large,#FF0000,#FFFFFF,2
+Kita-Ioto,Stratovolcano,25.424,141.284,large,#FF0000,#FFFFFF,2
+Ioto,Caldera,24.751,141.289,large,#FF0000,#FFFFFF,2
+Kita-Fukutokutai,Stratovolcano,24.417,141.417,large,#FF0000,#FFFFFF,2
+Fukutoku-Oka-no-Ba,Pyroclastic cone,24.285,141.481,large,#FF0000,#FFFFFF,2
+Minami-Hiyoshi,Stratovolcano,23.5,141.935,large,#FF0000,#FFFFFF,2
+Nikko,Stratovolcano,23.078,142.326,large,#FF0000,#FFFFFF,2
+Fukujin,Stratovolcano,21.93,143.47,large,#FF0000,#FFFFFF,2
+Kasuga 1,Stratovolcano,21.765,143.71,large,#FF0000,#FFFFFF,2
+Kasuga 2,Stratovolcano,21.6,143.637,large,#FF0000,#FFFFFF,2
+NW Eifuku,Stratovolcano,21.485,144.043,large,#FF0000,#FFFFFF,2
+Daikoku,Stratovolcano,21.324,144.194,large,#FF0000,#FFFFFF,2
+Farallon de Pajaros,Stratovolcano,20.546,144.893,large,#FF0000,#FFFFFF,2
+Ahyi,Stratovolcano,20.42,145.03,large,#FF0000,#FFFFFF,2
+Supply Reef,Stratovolcano,20.13,145.1,large,#FF0000,#FFFFFF,2
+Maug Islands,Stratovolcano,20.02,145.22,large,#FF0000,#FFFFFF,2
+Asuncion,Stratovolcano,19.671,145.406,large,#FF0000,#FFFFFF,2
+Agrigan,Stratovolcano,18.77,145.67,large,#FF0000,#FFFFFF,2
+Pagan,Stratovolcano(es),18.13,145.8,large,#FF0000,#FFFFFF,2
+Alamagan,Stratovolcano,17.6,145.83,large,#FF0000,#FFFFFF,2
+Guguan,Stratovolcano,17.3137,145.84,large,#FF0000,#FFFFFF,2
+Zealandia Bank,Stratovolcano,16.88,145.85,large,#FF0000,#FFFFFF,2
+Sarigan,Stratovolcano,16.708,145.78,large,#FF0000,#FFFFFF,2
+South Sarigan Seamount,Stratovolcano,16.58,145.78,large,#FF0000,#FFFFFF,2
+Anatahan,Stratovolcano,16.35,145.67,large,#FF0000,#FFFFFF,2
+East Diamante,Stratovolcano,15.93,145.67,large,#FF0000,#FFFFFF,2
+Ruby,Stratovolcano,15.605,145.572,large,#FF0000,#FFFFFF,2
+Esmeralda Bank,Stratovolcano,14.958,145.249,large,#FF0000,#FFFFFF,2
+NW Rota-1,Stratovolcano,14.601,144.775,large,#FF0000,#FFFFFF,2
+Forecast Seamount,Stratovolcano,13.4,143.92,large,#FF0000,#FFFFFF,2
+Seamount X,Stratovolcano,13.25,144.02,large,#FF0000,#FFFFFF,2
+Mariana Back-Arc Segment at 15.5°N,Fissure vent,15.406,144.506,large,#FF0000,#FFFFFF,2
+Oshima-Oshima,Stratovolcano,41.51,139.367,large,#FF0000,#FFFFFF,2
+Esan,Lava dome(s),41.805,141.166,large,#FF0000,#FFFFFF,2
+Hokkaido-Komagatake,Stratovolcano,42.063,140.677,large,#FF0000,#FFFFFF,2
+Toya,Stratovolcano,42.544,140.839,large,#FF0000,#FFFFFF,2
+Niseko,Stratovolcano(es),42.875,140.659,large,#FF0000,#FFFFFF,2
+Yoteizan,Stratovolcano,42.827,140.812,large,#FF0000,#FFFFFF,2
+Kuttara,Stratovolcano(es),42.491,141.16,large,#FF0000,#FFFFFF,2
+Shikotsu,Caldera,42.688,141.38,large,#FF0000,#FFFFFF,2
+Rishirizan,Stratovolcano,45.179,141.242,large,#FF0000,#FFFFFF,2
+Tokachidake,Stratovolcano(es),43.418,142.686,large,#FF0000,#FFFFFF,2
+Taisetsuzan,Stratovolcano(es),43.664,142.854,large,#FF0000,#FFFFFF,2
+Maruyama,Stratovolcano(es),43.418,143.031,large,#FF0000,#FFFFFF,2
+Akan,Caldera,43.384,144.013,large,#FF0000,#FFFFFF,2
+Kussharo,Caldera,43.615,144.427,large,#FF0000,#FFFFFF,2
+Mashu,Caldera,43.572,144.561,large,#FF0000,#FFFFFF,2
+Rausudake,Stratovolcano,44.076,145.122,large,#FF0000,#FFFFFF,2
+Tenchozan,Crater rows,44.044,145.086,large,#FF0000,#FFFFFF,2
+Shiretoko-Iozan,Stratovolcano,44.133,145.161,large,#FF0000,#FFFFFF,2
+Tomariyama [Golovnin],Caldera,43.844,145.504,large,#FF0000,#FFFFFF,2
+Raususan [Mendeleev],Stratovolcano,43.979,145.733,large,#FF0000,#FFFFFF,2
+Ruruidake [Smirnov],Stratovolcano,44.4541,146.1401,large,#FF0000,#FFFFFF,2
+Chachadake [Tiatia],Stratovolcano,44.353,146.252,large,#FF0000,#FFFFFF,2
+Berutarubesan [Berutarube],Stratovolcano,44.462,146.932,large,#FF0000,#FFFFFF,2
+Moekeshiwan [Lvinaya Past],Stratovolcano,44.608,146.994,large,#FF0000,#FFFFFF,2
+Etorofu-Atosanupuri [Atosanupuri],Stratovolcano,44.808,147.131,large,#FF0000,#FFFFFF,2
+Hitokappu Volcano Group [Bogatyr Ridge],Stratovolcano,44.857,147.403,large,#FF0000,#FFFFFF,2
+Etorofu-Yakeyama [Grozny Group],Complex,45.012,147.871,large,#FF0000,#FFFFFF,2
+Odamoisan [Tebenkov],Stratovolcano,45.028,147.918,large,#FF0000,#FFFFFF,2
+Sashiusudake [Baransky],Stratovolcano,45.103,148.0148,large,#FF0000,#FFFFFF,2
+Chirippusan [Chirip],Stratovolcano(es),45.338,147.92,large,#FF0000,#FFFFFF,2
+Moyorodake [Medvezhia],Stratovolcano,45.389,148.838,large,#FF0000,#FFFFFF,2
+Rakkibetsudake [Demon],Stratovolcano,45.5,148.85,large,#FF0000,#FFFFFF,2
+Ivao Group,Pyroclastic cone(s),45.7593,149.6762,large,#FF0000,#FFFFFF,2
+Rudakov,Stratovolcano,45.874,149.819,large,#FF0000,#FFFFFF,2
+Tri Sestry,Stratovolcano,45.93,149.92,large,#FF0000,#FFFFFF,2
+Kolokol Group,Stratovolcano,46.042,150.083,large,#FF0000,#FFFFFF,2
+Kuril Arc at 46.3°N,,46.2944,150.8526,large,#FF0000,#FFFFFF,2
+Chirpoi,Caldera,46.532,150.871,large,#FF0000,#FFFFFF,2
+Milna,Stratovolcano,46.815,151.786,large,#FF0000,#FFFFFF,2
+Zavaritzki Caldera,Caldera,46.9178,151.9518,large,#FF0000,#FFFFFF,2
+Prevo Peak,Stratovolcano,47.0139,152.1167,large,#FF0000,#FFFFFF,2
+Uratman,Stratovolcano,47.12,152.25,large,#FF0000,#FFFFFF,2
+Ketoi,Stratovolcano,47.35,152.475,large,#FF0000,#FFFFFF,2
+Ushishur,Caldera,47.5125,152.8139,large,#FF0000,#FFFFFF,2
+Srednii,Stratovolcano,47.5861,152.893,large,#FF0000,#FFFFFF,2
+Rasshua,Stratovolcano,47.77,153.02,large,#FF0000,#FFFFFF,2
+Sarychev Peak,Stratovolcano,48.092,153.2,large,#FF0000,#FFFFFF,2
+Raikoke,Stratovolcano,48.292,153.25,large,#FF0000,#FFFFFF,2
+Chirinkotan,Stratovolcano,48.98,153.48,large,#FF0000,#FFFFFF,2
+Ekarma,Stratovolcano,48.958,153.93,large,#FF0000,#FFFFFF,2
+Sinarka,Stratovolcano,48.873,154.182,large,#FF0000,#FFFFFF,2
+Kharimkotan,Stratovolcano,49.12,154.508,large,#FF0000,#FFFFFF,2
+Tao-Rusyr Caldera,Stratovolcano,49.34,154.725,large,#FF0000,#FFFFFF,2
+Nemo Peak,Caldera,49.57,154.808,large,#FF0000,#FFFFFF,2
+Shirinki,Stratovolcano,50.2,154.98,large,#FF0000,#FFFFFF,2
+Fuss Peak,Stratovolcano,50.267,155.246,large,#FF0000,#FFFFFF,2
+Karpinsky Group,Complex,50.148,155.373,large,#FF0000,#FFFFFF,2
+Chikurachki,Stratovolcano(es),50.324,155.461,large,#FF0000,#FFFFFF,2
+Vernadskii Ridge,Pyroclastic cone(s),50.55,155.97,large,#FF0000,#FFFFFF,2
+Ebeko,Stratovolcano,50.686,156.014,large,#FF0000,#FFFFFF,2
+Alaid,Stratovolcano,50.861,155.565,large,#FF0000,#FFFFFF,2
+Kambalny,Stratovolcano,51.306,156.875,large,#FF0000,#FFFFFF,2
+Koshelev,Stratovolcano,51.356,156.753,large,#FF0000,#FFFFFF,2
+Yavinsky,Stratovolcano,51.533,156.629,large,#FF0000,#FFFFFF,2
+Diky Greben,Lava dome(s),51.452,156.978,large,#FF0000,#FFFFFF,2
+Kurile Lake,Caldera,51.45,157.12,large,#FF0000,#FFFFFF,2
+Iliinsky,Stratovolcano,51.498,157.203,large,#FF0000,#FFFFFF,2
+Zheltovsky,Stratovolcano,51.577,157.328,large,#FF0000,#FFFFFF,2
+Ksudach,Stratovolcano,51.8042,157.5292,large,#FF0000,#FFFFFF,2
+Olkoviy Volcanic Group,Volcanic field,52.02,157.53,large,#FF0000,#FFFFFF,2
+Khodutka,Stratovolcano(es),52.062,157.711,large,#FF0000,#FFFFFF,2
+Asacha,Complex,52.355,157.827,large,#FF0000,#FFFFFF,2
+Visokiy,Stratovolcano,52.435,157.9332,large,#FF0000,#FFFFFF,2
+Mutnovsky,Complex,52.449,158.196,large,#FF0000,#FFFFFF,2
+Gorely,Caldera,52.5549,158.0358,large,#FF0000,#FFFFFF,2
+Opala,Caldera,52.543,157.339,large,#FF0000,#FFFFFF,2
+Tolmachev Dol,Pyroclastic cone(s),52.63,157.58,large,#FF0000,#FFFFFF,2
+Vilyuchinsky,Stratovolcano,52.7,158.28,large,#FF0000,#FFFFFF,2
+Barkhatnaya Sopka,Volcanic field,52.802,158.24,large,#FF0000,#FFFFFF,2
+Koryaksky,Stratovolcano,53.321,158.712,large,#FF0000,#FFFFFF,2
+Avachinsky,Stratovolcano,53.256,158.836,large,#FF0000,#FFFFFF,2
+Dzenzursky,Compound,53.637,158.922,large,#FF0000,#FFFFFF,2
+Zhupanovsky,Compound,53.589,159.15,large,#FF0000,#FFFFFF,2
+Veer,Pyroclastic cone(s),53.7525,158.4478,large,#FF0000,#FFFFFF,2
+Kostakan,Pyroclastic cone(s),53.833,158.052,large,#FF0000,#FFFFFF,2
+Bakening,Stratovolcano,53.905,158.07,large,#FF0000,#FFFFFF,2
+Zavaritsky,Pyroclastic cone(s),53.905,158.385,large,#FF0000,#FFFFFF,2
+Akademia Nauk,Stratovolcano(es),53.98,159.45,large,#FF0000,#FFFFFF,2
+Karymsky,Stratovolcano,54.049,159.443,large,#FF0000,#FFFFFF,2
+Maly Semyachik,Caldera,54.135,159.674,large,#FF0000,#FFFFFF,2
+Bolshoi Semiachik,Stratovolcano(es),54.32,160.02,large,#FF0000,#FFFFFF,2
+Taunshits,Stratovolcano,54.528,159.804,large,#FF0000,#FFFFFF,2
+Uzon,Caldera(s),54.4885,159.9741,large,#FF0000,#FFFFFF,2
+Kikhpinych,Stratovolcano(es),54.489,160.251,large,#FF0000,#FFFFFF,2
+Krasheninnikov,Caldera,54.596,160.27,large,#FF0000,#FFFFFF,2
+Kronotsky,Stratovolcano,54.753,160.533,large,#FF0000,#FFFFFF,2
+Gamchen,Complex,54.974,160.703,large,#FF0000,#FFFFFF,2
+Komarov,Stratovolcano,55.033,160.725,large,#FF0000,#FFFFFF,2
+Vysoky,Stratovolcano,55.064,160.765,large,#FF0000,#FFFFFF,2
+Kizimen,Stratovolcano,55.131,160.32,large,#FF0000,#FFFFFF,2
+Tolbachik,Shield,55.832,160.326,large,#FF0000,#FFFFFF,2
+Udina,Stratovolcano(es),55.758,160.527,large,#FF0000,#FFFFFF,2
+Zimina,Stratovolcano(es),55.862,160.603,large,#FF0000,#FFFFFF,2
+Bezymianny,Stratovolcano,55.972,160.595,large,#FF0000,#FFFFFF,2
+Kamen,Stratovolcano,56.02,160.593,large,#FF0000,#FFFFFF,2
+Klyuchevskoy,Stratovolcano,56.056,160.642,large,#FF0000,#FFFFFF,2
+Ushkovsky,Compound,56.113,160.509,large,#FF0000,#FFFFFF,2
+Sheveluch,Stratovolcano,56.653,161.36,large,#FF0000,#FFFFFF,2
+Piip,Stratovolcano,55.42,167.33,large,#FF0000,#FFFFFF,2
+Khangar,Stratovolcano,54.761,157.407,large,#FF0000,#FFFFFF,2
+Cherpuk Group,Pyroclastic cone(s),55.55,157.47,large,#FF0000,#FFFFFF,2
+Ichinsky,Stratovolcano,55.678,157.718,large,#FF0000,#FFFFFF,2
+Bolshoi-Kekuknaysky,Shield(s),56.483,157.917,large,#FF0000,#FFFFFF,2
+Alney-Chashakondzha,Stratovolcano,56.656,159.647,large,#FF0000,#FFFFFF,2
+Shisheika,Lava dome,57.153,161.09,large,#FF0000,#FFFFFF,2
+Terpuk,Shield,57.2,159.83,large,#FF0000,#FFFFFF,2
+Sedanka Lava Field,Volcanic field,57.317,160.067,large,#FF0000,#FFFFFF,2
+Gorny Institute,Stratovolcano,57.33,160.2,large,#FF0000,#FFFFFF,2
+Kinenin,Maar,57.35,160.97,large,#FF0000,#FFFFFF,2
+Bliznetsy,Lava cone,57.35,161.37,large,#FF0000,#FFFFFF,2
+Titila,Shield(s),57.406,160.108,large,#FF0000,#FFFFFF,2
+Elovsky,Shield(s),57.55,160.53,large,#FF0000,#FFFFFF,2
+Nylgimelkin,Shield(s),57.97,160.65,large,#FF0000,#FFFFFF,2
+Spokoiny,Stratovolcano,58.13,160.82,large,#FF0000,#FFFFFF,2
+Ostry,Stratovolcano,58.18,160.82,large,#FF0000,#FFFFFF,2
+Severny,Shield,58.28,160.87,large,#FF0000,#FFFFFF,2
+Udokan Plateau,Volcanic field,56.28,117.77,large,#FF0000,#FFFFFF,2
+Vitim Volcanic Field,Volcanic field,53.75,113.25,large,#FF0000,#FFFFFF,2
+Tunkin Depression,Volcanic field,51.5,102.5,large,#FF0000,#FFFFFF,2
+Jom-Bolok,Volcanic field,52.713,99.021,large,#FF0000,#FFFFFF,2
+Azas Plateau,Volcanic field,52.433,98.303,large,#FF0000,#FFFFFF,2
+Taryatu-Chulutu,Volcanic field,48.133,99.95,large,#FF0000,#FFFFFF,2
+Khanuy Gol,Volcanic field,48.67,102.75,large,#FF0000,#FFFFFF,2
+Dariganga Volcanic Field,Volcanic field,45.754,114.279,large,#FF0000,#FFFFFF,2
+Ashikule Volcanic Field,Volcanic field,35.742,81.646,large,#FF0000,#FFFFFF,2
+Honggeertu,Volcanic field,41.59,113.111,large,#FF0000,#FFFFFF,2
+Arxan-Chaihe,Volcanic field,47.45,120.8,large,#FF0000,#FFFFFF,2
+Keluo Group,Volcanic field,49.37,125.92,large,#FF0000,#FFFFFF,2
+Wudalianchi,Volcanic field,48.722,126.15,large,#FF0000,#FFFFFF,2
+Jingpohu,Volcanic field,44.08,128.83,large,#FF0000,#FFFFFF,2
+Longgang Group,Volcanic field,42.33,126.5,large,#FF0000,#FFFFFF,2
+Changbaishan,Stratovolcano,41.98,128.08,large,#FF0000,#FFFFFF,2
+Ch'uga-ryong,Shield,38.33,127.33,large,#FF0000,#FFFFFF,2
+Ulleungdo,Stratovolcano,37.5,130.87,large,#FF0000,#FFFFFF,2
+Halla,Shield,33.361,126.53,large,#FF0000,#FFFFFF,2
+Buldir,Stratovolcano,52.35,175.911,large,#FF0000,#FFFFFF,2
+Kiska,Stratovolcano,52.103,177.602,large,#FF0000,#FFFFFF,2
+Segula,Stratovolcano,52.015,178.136,large,#FF0000,#FFFFFF,2
+Davidof,Stratovolcano,51.97,178.33,large,#FF0000,#FFFFFF,2
+Little Sitkin,Stratovolcano,51.95,178.543,large,#FF0000,#FFFFFF,2
+Semisopochnoi,Stratovolcano,51.93,179.58,large,#FF0000,#FFFFFF,2
+Gareloi,Stratovolcano,51.79,-178.794,large,#FF0000,#FFFFFF,2
+Tanaga,Stratovolcano(es),51.885,-178.146,large,#FF0000,#FFFFFF,2
+Takawangha,Stratovolcano,51.873,-178.006,large,#FF0000,#FFFFFF,2
+Bobrof,Stratovolcano,51.91,-177.438,large,#FF0000,#FFFFFF,2
+Kanaga,Stratovolcano,51.923,-177.168,large,#FF0000,#FFFFFF,2
+Moffett,Stratovolcano,51.944,-176.747,large,#FF0000,#FFFFFF,2
+Great Sitkin,Stratovolcano,52.076,-176.13,large,#FF0000,#FFFFFF,2
+Kasatochi,Stratovolcano,52.177,-175.508,large,#FF0000,#FFFFFF,2
+Koniuji,Stratovolcano,52.22,-175.13,large,#FF0000,#FFFFFF,2
+Atka Volcanic Complex,Stratovolcano(es),52.331,-174.139,large,#FF0000,#FFFFFF,2
+Seguam,Stratovolcano(es),52.315,-172.51,large,#FF0000,#FFFFFF,2
+Amukta,Stratovolcano,52.5,-171.252,large,#FF0000,#FFFFFF,2
+Chagulak,Stratovolcano,52.577,-171.13,large,#FF0000,#FFFFFF,2
+Yunaska,Shield,52.6394,-170.6317,large,#FF0000,#FFFFFF,2
+Herbert,Stratovolcano,52.742,-170.111,large,#FF0000,#FFFFFF,2
+Carlisle,Stratovolcano,52.894,-170.054,large,#FF0000,#FFFFFF,2
+Cleveland,Stratovolcano,52.825,-169.944,large,#FF0000,#FFFFFF,2
+Tana,Stratovolcano(es),52.83,-169.77,large,#FF0000,#FFFFFF,2
+Uliaga,Stratovolcano,53.065,-169.77,large,#FF0000,#FFFFFF,2
+Kagamil,Stratovolcano,52.974,-169.72,large,#FF0000,#FFFFFF,2
+Vsevidof,Stratovolcano,53.13,-168.693,large,#FF0000,#FFFFFF,2
+Recheschnoi,Stratovolcano,53.157,-168.539,large,#FF0000,#FFFFFF,2
+Okmok,Shield,53.43,-168.13,large,#FF0000,#FFFFFF,2
+Bogoslof,Stratovolcano,53.93,-168.03,large,#FF0000,#FFFFFF,2
+Makushin,Stratovolcano,53.891,-166.923,large,#FF0000,#FFFFFF,2
+Akutan,Stratovolcano,54.134,-165.986,large,#FF0000,#FFFFFF,2
+Westdahl,Stratovolcano?,54.516,-164.65,large,#FF0000,#FFFFFF,2
+Fisher,Stratovolcano,54.65,-164.43,large,#FF0000,#FFFFFF,2
+Shishaldin,Stratovolcano,54.756,-163.97,large,#FF0000,#FFFFFF,2
+Roundtop,Stratovolcano,54.8,-163.589,large,#FF0000,#FFFFFF,2
+Amak,Stratovolcano,55.4184,-163.1472,large,#FF0000,#FFFFFF,2
+Frosty,Stratovolcano(es),55.067,-162.835,large,#FF0000,#FFFFFF,2
+Dutton,Stratovolcano,55.183,-162.276,large,#FF0000,#FFFFFF,2
+Emmons Lake Volcanic Center,Caldera,55.3519,-162.0445,large,#FF0000,#FFFFFF,2
+Pavlof,Stratovolcano,55.417,-161.894,large,#FF0000,#FFFFFF,2
+Pavlof Sister,Stratovolcano,55.457,-161.854,large,#FF0000,#FFFFFF,2
+Dana,Stratovolcano,55.641,-161.214,large,#FF0000,#FFFFFF,2
+Stepovak Bay Group,Volcanic field,55.917,-160.017,large,#FF0000,#FFFFFF,2
+Kupreanof,Stratovolcano,56.011,-159.797,large,#FF0000,#FFFFFF,2
+Veniaminof,Stratovolcano,56.17,-159.38,large,#FF0000,#FFFFFF,2
+Black Peak,Stratovolcano,56.552,-158.785,large,#FF0000,#FFFFFF,2
+Aniakchak,Caldera,56.88,-158.17,large,#FF0000,#FFFFFF,2
+Yantarni,Stratovolcano,57.019,-157.185,large,#FF0000,#FFFFFF,2
+Chiginagak,Stratovolcano,57.135,-156.99,large,#FF0000,#FFFFFF,2
+Kialagvik,Stratovolcano,57.203,-156.745,large,#FF0000,#FFFFFF,2
+Ugashik-Peulik,Stratovolcano,57.751,-156.368,large,#FF0000,#FFFFFF,2
+Ukinrek Maars,Maar(s),57.8344,-156.5203,large,#FF0000,#FFFFFF,2
+Unnamed,Lava dome,57.87,-155.411,large,#FF0000,#FFFFFF,2
+Martin,Stratovolcano,58.172,-155.361,large,#FF0000,#FFFFFF,2
+Mageik,Stratovolcano,58.195,-155.253,large,#FF0000,#FFFFFF,2
+Trident,Stratovolcano,58.236,-155.1,large,#FF0000,#FFFFFF,2
+Katmai,Stratovolcano,58.279,-154.9533,large,#FF0000,#FFFFFF,2
+Novarupta,Caldera,58.2655,-155.1588,large,#FF0000,#FFFFFF,2
+Griggs,Stratovolcano,58.354,-155.092,large,#FF0000,#FFFFFF,2
+Snowy Mountain,Stratovolcano(es),58.336,-154.682,large,#FF0000,#FFFFFF,2
+Denison,Stratovolcano,58.418,-154.449,large,#FF0000,#FFFFFF,2
+Steller,Stratovolcano,58.4298,-154.3895,large,#FF0000,#FFFFFF,2
+Kukak,Stratovolcano,58.453,-154.355,large,#FF0000,#FFFFFF,2
+Kaguyak,Lava dome(s),58.6113,-154.0245,large,#FF0000,#FFFFFF,2
+Fourpeaked,Stratovolcano,58.77,-153.672,large,#FF0000,#FFFFFF,2
+Douglas,Stratovolcano,58.855,-153.542,large,#FF0000,#FFFFFF,2
+Augustine,Lava dome(s),59.3626,-153.435,large,#FF0000,#FFFFFF,2
+Iliamna,Stratovolcano,60.032,-153.09,large,#FF0000,#FFFFFF,2
+Redoubt,Stratovolcano,60.485,-152.742,large,#FF0000,#FFFFFF,2
+Spurr,Stratovolcano,61.299,-152.251,large,#FF0000,#FFFFFF,2
+Hayes,Stratovolcano,61.64,-152.411,large,#FF0000,#FFFFFF,2
+St. Paul Island,Shield,57.167,-170.213,large,#FF0000,#FFFFFF,2
+Ingakslugwat Hills,Volcanic field,61.43,-164.47,large,#FF0000,#FFFFFF,2
+St. Michael,Volcanic field,63.45,-162.12,large,#FF0000,#FFFFFF,2
+Imuruk Lake,Volcanic field,65.517,-163.45,large,#FF0000,#FFFFFF,2
+Buzzard Creek,Tuff ring(s),64.0616,-148.4327,large,#FF0000,#FFFFFF,2
+Wrangell,Shield,62.006,-144.017,large,#FF0000,#FFFFFF,2
+Churchill,Stratovolcano,61.38,-141.75,large,#FF0000,#FFFFFF,2
+Edgecumbe,Volcanic field,57.05,-135.75,large,#FF0000,#FFFFFF,2
+Duncan Canal,Volcanic field,56.5,-133.1,large,#FF0000,#FFFFFF,2
+Tlevak Strait-Suemez Island,Volcanic field,55.25,-133.3,large,#FF0000,#FFFFFF,2
+Behm Canal-Rudyerd Bay,Volcanic field,55.35,-131,large,#FF0000,#FFFFFF,2
+Fort Selkirk,Volcanic field,62.93,-137.38,large,#FF0000,#FFFFFF,2
+Alligator Lake,Volcanic field,60.42,-135.42,large,#FF0000,#FFFFFF,2
+Atlin Volcanic Field,Pyroclastic cone(s),59.708,-133.358,large,#FF0000,#FFFFFF,2
+Tuya Volcanic Field,Volcanic field,59.37,-130.58,large,#FF0000,#FFFFFF,2
+Heart Peaks,Shield,58.6,-131.97,large,#FF0000,#FFFFFF,2
+Level Mountain,Shield,58.42,-131.35,large,#FF0000,#FFFFFF,2
+Edziza,Stratovolcano,57.72,-130.63,large,#FF0000,#FFFFFF,2
+Spectrum Range,Shield,57.43,-130.68,large,#FF0000,#FFFFFF,2
+Hoodoo Mountain,Pyroclastic cone(s),56.78,-131.28,large,#FF0000,#FFFFFF,2
+Iskut-Unuk River Cones,Pyroclastic cone(s),56.567,-130.75,large,#FF0000,#FFFFFF,2
+Tseax River Cone,Pyroclastic cone,55.1109,-128.8991,large,#FF0000,#FFFFFF,2
+Crow Lagoon,Pyroclastic cone,54.7,-130.23,large,#FF0000,#FFFFFF,2
+Milbanke Sound Group,Pyroclastic cone(s),52.498,-128.723,large,#FF0000,#FFFFFF,2
+Nazko,Pyroclastic cone(s),52.928,-123.732,large,#FF0000,#FFFFFF,2
+Wells Gray-Clearwater,Volcanic field,52.0306,-120.1125,large,#FF0000,#FFFFFF,2
+Silverthrone,Caldera,51.5179,-126.1133,large,#FF0000,#FFFFFF,2
+Bridge River Cones,Volcanic field,50.8,-123.4,large,#FF0000,#FFFFFF,2
+Meager,Complex,50.63,-123.5,large,#FF0000,#FFFFFF,2
+Garibaldi Lake,Volcanic field,49.933,-123,large,#FF0000,#FFFFFF,2
+Garibaldi,Stratovolcano,49.85,-123,large,#FF0000,#FFFFFF,2
+Cayley Volcanic Field,Volcanic field,50.12,-123.28,large,#FF0000,#FFFFFF,2
+Baker,Stratovolcano(es),48.777,-121.813,large,#FF0000,#FFFFFF,2
+Glacier Peak,Stratovolcano,48.112,-121.113,large,#FF0000,#FFFFFF,2
+Rainier,Stratovolcano,46.853,-121.76,large,#FF0000,#FFFFFF,2
+Adams,Stratovolcano,46.206,-121.49,large,#FF0000,#FFFFFF,2
+St. Helens,Stratovolcano,46.2,-122.18,large,#FF0000,#FFFFFF,2
+West Crater,Volcanic field,45.88,-122.08,large,#FF0000,#FFFFFF,2
+Indian Heaven,Volcanic field,45.93,-121.82,large,#FF0000,#FFFFFF,2
+Hood,Stratovolcano,45.374,-121.695,large,#FF0000,#FFFFFF,2
+Jefferson,Stratovolcano,44.674,-121.8,large,#FF0000,#FFFFFF,2
+Blue Lake Crater,Maar,44.4125,-121.7686,large,#FF0000,#FFFFFF,2
+Sand Mountain Field,Volcanic field,44.38,-121.93,large,#FF0000,#FFFFFF,2
+Belknap,Shield(s),44.285,-121.8423,large,#FF0000,#FFFFFF,2
+Three Sisters,Complex,44.133,-121.767,large,#FF0000,#FFFFFF,2
+Bachelor,Stratovolcano,43.979,-121.688,large,#FF0000,#FFFFFF,2
+Davis Lake,Volcanic field,43.57,-121.82,large,#FF0000,#FFFFFF,2
+Newberry,Shield,43.722,-121.229,large,#FF0000,#FFFFFF,2
+Devils Garden,Volcanic field,43.512,-120.861,large,#FF0000,#FFFFFF,2
+Cinnamon Butte,Pyroclastic cone(s),43.2411,-122.1111,large,#FF0000,#FFFFFF,2
+Crater Lake,Caldera,42.942,-122.107,large,#FF0000,#FFFFFF,2
+Diamond Craters,Volcanic field,43.1,-118.75,large,#FF0000,#FFFFFF,2
+Jordan Craters,Volcanic field,43.147,-117.46,large,#FF0000,#FFFFFF,2
+Shasta,Stratovolcano,41.409,-122.193,large,#FF0000,#FFFFFF,2
+Medicine Lake,Shield,41.611,-121.554,large,#FF0000,#FFFFFF,2
+Lassen Volcanic Center,Stratovolcano,40.492,-121.508,large,#FF0000,#FFFFFF,2
+Clear Lake Volcanic Field,Volcanic field,38.97,-122.77,large,#FF0000,#FFFFFF,2
+Mono Lake Volcanic Field,Volcanic field,38,-119.03,large,#FF0000,#FFFFFF,2
+Mono-Inyo Craters,Lava dome(s),37.804,-119.029,large,#FF0000,#FFFFFF,2
+Mammoth Mountain,Lava dome(s),37.631,-119.032,large,#FF0000,#FFFFFF,2
+Ubehebe Craters,Maar(s),37.02,-117.45,large,#FF0000,#FFFFFF,2
+Salton Buttes,Lava dome(s),33.197,-115.616,large,#FF0000,#FFFFFF,2
+Black Butte Crater Lava Field,Shield,43.183,-114.352,large,#FF0000,#FFFFFF,2
+Craters of the Moon,Volcanic field,43.371,-113.493,large,#FF0000,#FFFFFF,2
+Wapi Lava Field,Shield,42.8859,-113.2166,large,#FF0000,#FFFFFF,2
+Hell's Half Acre,Shield,43.492,-112.4503,large,#FF0000,#FFFFFF,2
+Soda Lakes,Maar(s),39.525,-118.8778,large,#FF0000,#FFFFFF,2
+Markagunt Plateau,Volcanic field,37.58,-112.67,large,#FF0000,#FFFFFF,2
+Black Rock Desert,Volcanic field,38.97,-112.5,large,#FF0000,#FFFFFF,2
+Carrizozo,Pyroclastic cone(s),33.78,-105.93,large,#FF0000,#FFFFFF,2
+Zuni-Bandera,Volcanic field,34.8,-108,large,#FF0000,#FFFFFF,2
+Red Hill-Quemado,Volcanic field,34.25,-108.83,large,#FF0000,#FFFFFF,2
+Dotsero,Maar,39.6613,-107.0355,large,#FF0000,#FFFFFF,2
+Uinkaret Field,Volcanic field,36.38,-113.13,large,#FF0000,#FFFFFF,2
+San Francisco Volcanic Field,Volcanic field,35.347,-111.678,large,#FF0000,#FFFFFF,2
+West Valley Segment,Fissure vent,48.78,-128.64,large,#FF0000,#FFFFFF,2
+Endeavour Segment,Fissure vent(s),47.95,-129.1,large,#FF0000,#FFFFFF,2
+Cobb Segment,Fissure vent(s),46.88,-129.33,large,#FF0000,#FFFFFF,2
+CoAxial Segment,Fissure vent(s),46.52,-129.58,large,#FF0000,#FFFFFF,2
+Axial Seamount,Fissure vent(s),45.95,-130,large,#FF0000,#FFFFFF,2
+Cleft Segment,Fissure vent(s),44.83,-130.3,large,#FF0000,#FFFFFF,2
+North Gorda Ridge Segment,Fissure vent(s),42.67,-126.78,large,#FF0000,#FFFFFF,2
+Jackson Segment,Fissure vent(s),42.15,-127.05,large,#FF0000,#FFFFFF,2
+Escanaba Segment,Fissure vent(s),40.98,-127.5,large,#FF0000,#FFFFFF,2
+East Blanco Depression,Fissure vent,44.267,-129.879,large,#FF0000,#FFFFFF,2
+Kama'ehuakanaloa,Shield,18.92,-155.27,large,#FF0000,#FFFFFF,2
+Kilauea,Shield,19.421,-155.287,large,#FF0000,#FFFFFF,2
+Mauna Loa,Shield,19.475,-155.608,large,#FF0000,#FFFFFF,2
+Mauna Kea,Shield,19.82,-155.47,large,#FF0000,#FFFFFF,2
+Hualalai,Shield,19.692,-155.87,large,#FF0000,#FFFFFF,2
+Haleakala,Shield,20.708,-156.25,large,#FF0000,#FFFFFF,2
+Teahitia,Compound,-17.564,-148.821,large,#FF0000,#FFFFFF,2
+Rocard,Cone,-17.662,-148.586,large,#FF0000,#FFFFFF,2
+Moua Pihaa,Stratovolcano,-18.325,-148.525,large,#FF0000,#FFFFFF,2
+Mehetia,Stratovolcano,-17.874,-148.068,large,#FF0000,#FFFFFF,2
+Adams Seamount,Lava dome,-25.37,-129.27,large,#FF0000,#FFFFFF,2
+Macdonald,Shield,-28.98,-140.25,large,#FF0000,#FFFFFF,2
+Northern EPR at 17°N,Fissure vent(s),16.55,-105.32,large,#FF0000,#FFFFFF,2
+Northern EPR at 16°N,Fissure vent(s),15.83,-105.43,large,#FF0000,#FFFFFF,2
+Northern EPR at 10.7°N,Fissure vent(s),10.73,-103.58,large,#FF0000,#FFFFFF,2
+Northern EPR at 9.8°N,Fissure vent(s),9.83,-104.3,large,#FF0000,#FFFFFF,2
+Galapagos Rift,Fissure vent(s),0.792,-86.15,large,#FF0000,#FFFFFF,2
+Southern EPR at 8°S,Fissure vent(s),-8.27,-107.95,large,#FF0000,#FFFFFF,2
+Southern EPR at 17.5°S (Segment K),Fissure vent(s),-17.436,-113.206,large,#FF0000,#FFFFFF,2
+Southern EPR at 18.2°S (Segment J),Fissure vent(s),-18.175,-113.35,large,#FF0000,#FFFFFF,2
+Southern EPR at 18.5°S (Segment I),Fissure vent(s),-18.53,-113.42,large,#FF0000,#FFFFFF,2
+Hollister Ridge,Fissure vent,-53.998,-139.845,large,#FF0000,#FFFFFF,2
+Udintsev Transform,Fissure vent,-56.153,-143.373,large,#FF0000,#FFFFFF,2
+"Prieto, Cerro",Lava dome,32.418,-115.305,large,#FF0000,#FFFFFF,2
+Pinacate,Volcanic field,31.85,-113.5,large,#FF0000,#FFFFFF,2
+"San Luis, Isla",Tuff cone,29.9728,-114.4082,large,#FF0000,#FFFFFF,2
+Jaraguay Volcanic Field,Volcanic field,29.33,-114.5,large,#FF0000,#FFFFFF,2
+San Borja Volcanic Field,Volcanic field,28.5,-113.75,large,#FF0000,#FFFFFF,2
+"Tortuga, Isla",Shield,27.438,-111.881,large,#FF0000,#FFFFFF,2
+Comondu-La Purisima,Volcanic field,26,-111.92,large,#FF0000,#FFFFFF,2
+Barcena,Pyroclastic cone(s),19.3,-110.82,large,#FF0000,#FFFFFF,2
+Socorro,Shield,18.78,-110.95,large,#FF0000,#FFFFFF,2
+Durango Volcanic Field,Volcanic field,24.15,-104.45,large,#FF0000,#FFFFFF,2
+Sanganguey,Stratovolcano,21.45,-104.73,large,#FF0000,#FFFFFF,2
+Ceboruco,Stratovolcano,21.125,-104.508,large,#FF0000,#FFFFFF,2
+Mascota Volcanic Field,Volcanic field,20.567,-104.817,large,#FF0000,#FFFFFF,2
+Colima,Stratovolcano(es),19.514,-103.62,large,#FF0000,#FFFFFF,2
+Michoacan-Guanajuato,Volcanic field,19.85,-101.75,large,#FF0000,#FFFFFF,2
+Zitacuaro-Valle de Bravo,Volcanic field,19.4,-100.25,large,#FF0000,#FFFFFF,2
+Jocotitlan,Stratovolcano,19.73,-99.758,large,#FF0000,#FFFFFF,2
+"Toluca, Nevado de",Stratovolcano,19.108,-99.758,large,#FF0000,#FFFFFF,2
+Chichinautzin,Volcanic field,19.139,-99.16,large,#FF0000,#FFFFFF,2
+Iztaccihuatl,Stratovolcano,19.179,-98.642,large,#FF0000,#FFFFFF,2
+Popocatepetl,Stratovolcano(es),19.023,-98.622,large,#FF0000,#FFFFFF,2
+"Malinche, La",Stratovolcano,19.231,-98.032,large,#FF0000,#FFFFFF,2
+Serdan-Oriental,Volcanic field,19.27,-97.47,large,#FF0000,#FFFFFF,2
+"Humeros, Los",Caldera(s),19.68,-97.45,large,#FF0000,#FFFFFF,2
+"Atlixcos, Los",Shield,19.81,-96.527,large,#FF0000,#FFFFFF,2
+Naolinco Volcanic Field,Volcanic field,19.67,-96.75,large,#FF0000,#FFFFFF,2
+Cofre de Perote,Compound,19.492,-97.15,large,#FF0000,#FFFFFF,2
+"Gloria, La",Volcanic field,19.33,-97.25,large,#FF0000,#FFFFFF,2
+"Cumbres,  Las",Stratovolcano,19.15,-97.27,large,#FF0000,#FFFFFF,2
+"Orizaba, Pico de",Stratovolcano,19.03,-97.27,large,#FF0000,#FFFFFF,2
+San Martin,Volcanic field,18.57,-95.2,large,#FF0000,#FFFFFF,2
+"Chichon, El",Lava dome(s),17.3602,-93.2297,large,#FF0000,#FFFFFF,2
+Tacana,Stratovolcano,15.132,-92.109,large,#FF0000,#FFFFFF,2
+Tajumulco,Stratovolcano,15.043,-91.903,large,#FF0000,#FFFFFF,2
+Santa Maria,Stratovolcano,14.757,-91.552,large,#FF0000,#FFFFFF,2
+Almolonga,Stratovolcano,14.797,-91.519,large,#FF0000,#FFFFFF,2
+Atitlan,Stratovolcano(es),14.583,-91.186,large,#FF0000,#FFFFFF,2
+Toliman,Stratovolcano(es),14.612,-91.189,large,#FF0000,#FFFFFF,2
+Acatenango,Stratovolcano(es),14.501,-90.876,large,#FF0000,#FFFFFF,2
+Fuego,Stratovolcano(es),14.4748,-90.8806,large,#FF0000,#FFFFFF,2
+Agua,Stratovolcano,14.465,-90.743,large,#FF0000,#FFFFFF,2
+Pacaya,Complex,14.382,-90.601,large,#FF0000,#FFFFFF,2
+Cuilapa-Barbarena,Volcanic field,14.33,-90.4,large,#FF0000,#FFFFFF,2
+Tecuamburro,Stratovolcano,14.156,-90.407,large,#FF0000,#FFFFFF,2
+Jumaytepeque,Stratovolcano,14.34,-90.271,large,#FF0000,#FFFFFF,2
+Moyuta,Stratovolcano,14.03,-90.1,large,#FF0000,#FFFFFF,2
+Flores,Volcanic field,14.308,-89.992,large,#FF0000,#FFFFFF,2
+Tahual,Stratovolcano,14.43,-89.9,large,#FF0000,#FFFFFF,2
+"Santiago, Cerro",Volcanic field,14.33,-89.87,large,#FF0000,#FFFFFF,2
+Suchitan,Stratovolcano(es),14.4,-89.78,large,#FF0000,#FFFFFF,2
+Chingo,Stratovolcano,14.12,-89.73,large,#FF0000,#FFFFFF,2
+Ixtepeque,Lava dome(s),14.42,-89.68,large,#FF0000,#FFFFFF,2
+"Singuil, Cerro",Volcanic field,14.054,-89.631,large,#FF0000,#FFFFFF,2
+Apaneca Range,Stratovolcano(es),13.872,-89.742,large,#FF0000,#FFFFFF,2
+Santa Ana,Stratovolcano,13.853,-89.63,large,#FF0000,#FFFFFF,2
+Izalco,Stratovolcano,13.813,-89.633,large,#FF0000,#FFFFFF,2
+Coatepeque Caldera,Caldera,13.87,-89.55,large,#FF0000,#FFFFFF,2
+San Salvador,Stratovolcano,13.734,-89.294,large,#FF0000,#FFFFFF,2
+"Cinotepeque, Cerro",Volcanic field,14.02,-89.25,large,#FF0000,#FFFFFF,2
+Ilopango,Caldera,13.672,-89.053,large,#FF0000,#FFFFFF,2
+San Vicente,Stratovolcano,13.5969,-88.8375,large,#FF0000,#FFFFFF,2
+Taburete,Stratovolcano,13.435,-88.532,large,#FF0000,#FFFFFF,2
+Tecapa,Stratovolcano,13.494,-88.502,large,#FF0000,#FFFFFF,2
+Usulutan,Stratovolcano,13.419,-88.471,large,#FF0000,#FFFFFF,2
+"Tigre, El",Stratovolcano,13.47,-88.43,large,#FF0000,#FFFFFF,2
+Chinameca,Stratovolcano,13.478,-88.33,large,#FF0000,#FFFFFF,2
+San Miguel,Stratovolcano,13.434,-88.269,large,#FF0000,#FFFFFF,2
+"Aramuaca, Laguna",Maar,13.428,-88.105,large,#FF0000,#FFFFFF,2
+"Tigre, Isla del",Stratovolcano,13.274,-87.639,large,#FF0000,#FFFFFF,2
+"Zacate Grande, Isla",Stratovolcano,13.33,-87.63,large,#FF0000,#FFFFFF,2
+"Yojoa, Lago",Volcanic field,14.964,-87.983,large,#FF0000,#FFFFFF,2
+Cosiguina,Stratovolcano,12.98,-87.57,large,#FF0000,#FFFFFF,2
+San Cristobal,Stratovolcano,12.702,-87.004,large,#FF0000,#FFFFFF,2
+Telica,Stratovolcano(es),12.606,-86.84,large,#FF0000,#FFFFFF,2
+"Negro, Cerro",Pyroclastic cone(s),12.506,-86.702,large,#FF0000,#FFFFFF,2
+Las Pilas-El Hoyo Complex,Complex,12.4922,-86.6786,large,#FF0000,#FFFFFF,2
+Momotombo,Stratovolcano,12.423,-86.539,large,#FF0000,#FFFFFF,2
+Apoyeque,Caldera,12.242,-86.342,large,#FF0000,#FFFFFF,2
+Nejapa-Miraflores,Fissure vent(s),12.12,-86.32,large,#FF0000,#FFFFFF,2
+Masaya,Caldera,11.9844,-86.1688,large,#FF0000,#FFFFFF,2
+Granada,Fissure vent(s),11.9,-85.979,large,#FF0000,#FFFFFF,2
+Mombacho,Stratovolcano,11.826,-85.968,large,#FF0000,#FFFFFF,2
+Zapatera,Shield,11.73,-85.82,large,#FF0000,#FFFFFF,2
+Concepcion,Stratovolcano,11.538,-85.622,large,#FF0000,#FFFFFF,2
+Orosi,Stratovolcano(es),10.98,-85.473,large,#FF0000,#FFFFFF,2
+Rincon de la Vieja,Complex,10.83,-85.324,large,#FF0000,#FFFFFF,2
+Miravalles,Stratovolcano,10.748,-85.153,large,#FF0000,#FFFFFF,2
+Tenorio,Stratovolcano(es),10.673,-85.015,large,#FF0000,#FFFFFF,2
+Arenal,Stratovolcano,10.463,-84.703,large,#FF0000,#FFFFFF,2
+Platanar,Stratovolcano(es),10.3,-84.366,large,#FF0000,#FFFFFF,2
+Poas,Stratovolcano,10.2,-84.233,large,#FF0000,#FFFFFF,2
+Barva,Complex,10.135,-84.1,large,#FF0000,#FFFFFF,2
+Irazu,Stratovolcano,9.979,-83.852,large,#FF0000,#FFFFFF,2
+Turrialba,Stratovolcano,10.025,-83.767,large,#FF0000,#FFFFFF,2
+Baru,Stratovolcano,8.808,-82.543,large,#FF0000,#FFFFFF,2
+Romeral,Stratovolcano,5.203,-75.363,large,#FF0000,#FFFFFF,2
+"Bravo, Cerro",Stratovolcano,5.091,-75.293,large,#FF0000,#FFFFFF,2
+"Ruiz, Nevado del",Stratovolcano,4.892,-75.324,large,#FF0000,#FFFFFF,2
+Santa Isabel,Shield,4.818,-75.365,large,#FF0000,#FFFFFF,2
+"Tolima, Nevado del",Stratovolcano,4.658,-75.33,large,#FF0000,#FFFFFF,2
+Machin,Stratovolcano,4.487,-75.389,large,#FF0000,#FFFFFF,2
+"Huila, Nevado del",Stratovolcano,2.93,-76.03,large,#FF0000,#FFFFFF,2
+Purace,Stratovolcano(es),2.3095,-76.3948,large,#FF0000,#FFFFFF,2
+Sotara,Stratovolcano,2.108,-76.592,large,#FF0000,#FFFFFF,2
+Dona Juana,Stratovolcano,1.5,-76.936,large,#FF0000,#FFFFFF,2
+Galeras,Complex,1.22,-77.37,large,#FF0000,#FFFFFF,2
+Azufral,Stratovolcano,1.08,-77.68,large,#FF0000,#FFFFFF,2
+Cumbal,Stratovolcano,0.95,-77.87,large,#FF0000,#FFFFFF,2
+Chiles-Cerro Negro,Stratovolcano,0.817,-77.938,large,#FF0000,#FFFFFF,2
+Soche,Stratovolcano,0.552,-77.58,large,#FF0000,#FFFFFF,2
+Chachimbiro,Stratovolcano,0.468,-78.287,large,#FF0000,#FFFFFF,2
+Cuicocha,Caldera,0.308,-78.364,large,#FF0000,#FFFFFF,2
+Imbabura,Compound,0.258,-78.183,large,#FF0000,#FFFFFF,2
+Mojanda,Stratovolcano(es),0.13,-78.27,large,#FF0000,#FFFFFF,2
+Cayambe,Compound,0.029,-77.986,large,#FF0000,#FFFFFF,2
+Reventador,Stratovolcano,-0.077,-77.656,large,#FF0000,#FFFFFF,2
+Pululahua,Caldera,0.0464,-78.49,large,#FF0000,#FFFFFF,2
+Guagua Pichincha,Stratovolcano,-0.171,-78.598,large,#FF0000,#FFFFFF,2
+Atacazo,Stratovolcano,-0.353,-78.617,large,#FF0000,#FFFFFF,2
+Chacana,Caldera,-0.375,-78.25,large,#FF0000,#FFFFFF,2
+Antisana,Stratovolcano,-0.481,-78.141,large,#FF0000,#FFFFFF,2
+Aliso,Stratovolcano,-0.53,-78,large,#FF0000,#FFFFFF,2
+Sumaco,Stratovolcano,-0.538,-77.626,large,#FF0000,#FFFFFF,2
+Iliniza,Stratovolcano,-0.662,-78.716,large,#FF0000,#FFFFFF,2
+Cotopaxi,Stratovolcano,-0.677,-78.436,large,#FF0000,#FFFFFF,2
+Quilotoa,Caldera,-0.8592,-78.9044,large,#FF0000,#FFFFFF,2
+Chimborazo,Stratovolcano,-1.469,-78.817,large,#FF0000,#FFFFFF,2
+Tungurahua,Stratovolcano,-1.467,-78.442,large,#FF0000,#FFFFFF,2
+Licto,Pyroclastic cone(s),-1.786,-78.614,large,#FF0000,#FFFFFF,2
+Sangay,Stratovolcano,-2.005,-78.341,large,#FF0000,#FFFFFF,2
+Fernandina,Shield,-0.37,-91.55,large,#FF0000,#FFFFFF,2
+Ecuador,Shield,-0.02,-91.546,large,#FF0000,#FFFFFF,2
+Wolf,Shield,0.02,-91.35,large,#FF0000,#FFFFFF,2
+Darwin,Shield,-0.18,-91.28,large,#FF0000,#FFFFFF,2
+Alcedo,Shield,-0.43,-91.12,large,#FF0000,#FFFFFF,2
+"Negra, Sierra",Shield,-0.83,-91.17,large,#FF0000,#FFFFFF,2
+"Azul, Cerro",Shield,-0.92,-91.408,large,#FF0000,#FFFFFF,2
+Pinta,Shield,0.58,-90.75,large,#FF0000,#FFFFFF,2
+Marchena,Shield,0.33,-90.47,large,#FF0000,#FFFFFF,2
+Genovesa,Shield,0.32,-89.958,large,#FF0000,#FFFFFF,2
+Santiago,Shield,-0.22,-90.77,large,#FF0000,#FFFFFF,2
+Santa Cruz,Shield,-0.62,-90.33,large,#FF0000,#FFFFFF,2
+San Cristobal,Shield,-0.88,-89.5,large,#FF0000,#FFFFFF,2
+Quimsachata-Oroscocha,Lava dome,-14.131,-71.363,large,#FF0000,#FFFFFF,2
+"Auquihuato, Cerro",Pyroclastic cone,-15.0726,-73.1914,large,#FF0000,#FFFFFF,2
+Coropuna,Stratovolcano,-15.52,-72.65,large,#FF0000,#FFFFFF,2
+Andahua-Orcopampa,Volcanic field,-15.42,-72.33,large,#FF0000,#FFFFFF,2
+Huambo,Volcanic field,-15.78,-72.08,large,#FF0000,#FFFFFF,2
+Sabancaya,Stratovolcano(es),-15.787,-71.857,large,#FF0000,#FFFFFF,2
+"Misti, El",Stratovolcano,-16.2991,-71.4056,large,#FF0000,#FFFFFF,2
+Ubinas,Stratovolcano,-16.345,-70.8972,large,#FF0000,#FFFFFF,2
+Huaynaputina,Stratovolcano,-16.6144,-70.8542,large,#FF0000,#FFFFFF,2
+Ticsani,Lava dome(s),-16.7586,-70.5981,large,#FF0000,#FFFFFF,2
+Tutupaca,Stratovolcano(es),-17.026,-70.372,large,#FF0000,#FFFFFF,2
+Yucamane,Stratovolcano(es),-17.184,-70.196,large,#FF0000,#FFFFFF,2
+"Casiri, Nevados",Stratovolcano(es),-17.4852,-69.7886,large,#FF0000,#FFFFFF,2
+Taapaca,Complex,-18.1,-69.5,large,#FF0000,#FFFFFF,2
+Parinacota,Stratovolcano,-18.166,-69.142,large,#FF0000,#FFFFFF,2
+Guallatiri,Stratovolcano,-18.42,-69.092,large,#FF0000,#FFFFFF,2
+Isluga,Stratovolcano,-19.15,-68.83,large,#FF0000,#FFFFFF,2
+Tata Sabaya,Stratovolcano,-19.13,-68.53,large,#FF0000,#FFFFFF,2
+Irruputuncu,Stratovolcano,-20.73,-68.55,large,#FF0000,#FFFFFF,2
+Olca-Paruma,Stratovolcano(es),-20.939,-68.413,large,#FF0000,#FFFFFF,2
+Putana,Stratovolcano,-22.557,-67.853,large,#FF0000,#FFFFFF,2
+Sairecabur,Stratovolcano(es),-22.719,-67.891,large,#FF0000,#FFFFFF,2
+Licancabur,Stratovolcano,-22.83,-67.88,large,#FF0000,#FFFFFF,2
+Guayaques,Lava dome(s),-22.895,-67.566,large,#FF0000,#FFFFFF,2
+Purico Complex,Shield(pyroclastic),-23,-67.75,large,#FF0000,#FFFFFF,2
+Colachi,Stratovolcano,-23.236,-67.645,large,#FF0000,#FFFFFF,2
+Acamarachi,Stratovolcano,-23.292,-67.618,large,#FF0000,#FFFFFF,2
+Chiliques,Stratovolcano,-23.58,-67.7,large,#FF0000,#FFFFFF,2
+Lascar,Stratovolcano(es),-23.37,-67.73,large,#FF0000,#FFFFFF,2
+Cordon de Puntas Negras,Stratovolcano(es),-23.743,-67.534,large,#FF0000,#FFFFFF,2
+Miniques,Stratovolcano(es),-23.82,-67.77,large,#FF0000,#FFFFFF,2
+"Tujle, Cerro",Maar,-23.83,-67.95,large,#FF0000,#FFFFFF,2
+Caichinque,Stratovolcano(es),-23.949,-67.74,large,#FF0000,#FFFFFF,2
+Tilocalar,Lava cone(es),-23.97,-68.13,large,#FF0000,#FFFFFF,2
+Pular,Stratovolcano(es),-24.188,-68.054,large,#FF0000,#FFFFFF,2
+"Negrillar, La",Pyroclastic cone(s),-24.319,-68.59,large,#FF0000,#FFFFFF,2
+Socompa,Stratovolcano,-24.396,-68.246,large,#FF0000,#FFFFFF,2
+Llullaillaco,Stratovolcano,-24.72,-68.53,large,#FF0000,#FFFFFF,2
+Corrida de Cori Volcanic Field,Stratovolcano,-25.083,-68.367,large,#FF0000,#FFFFFF,2
+Lastarria,Stratovolcano,-25.168,-68.507,large,#FF0000,#FFFFFF,2
+Cordon del Azufre,Complex,-25.336,-68.521,large,#FF0000,#FFFFFF,2
+"Bayo Gorbea, Cerro",Complex,-25.414,-68.588,large,#FF0000,#FFFFFF,2
+"Nevada, Sierra",Complex,-26.48,-68.58,large,#FF0000,#FFFFFF,2
+Falso Azufre,Complex,-26.8,-68.37,large,#FF0000,#FFFFFF,2
+"Incahuasi, Nevado de",Stratovolcano(es),-27.033,-68.296,large,#FF0000,#FFFFFF,2
+"Ojos del Salado, Nevados",Stratovolcano,-27.109,-68.541,large,#FF0000,#FFFFFF,2
+"Solo, El",Stratovolcano,-27.105,-68.713,large,#FF0000,#FFFFFF,2
+Aracar,Stratovolcano,-24.29,-67.783,large,#FF0000,#FFFFFF,2
+Unnamed,Pyroclastic cone,-25.078,-68.266,large,#FF0000,#FFFFFF,2
+"Condor, El",Stratovolcano,-26.632,-68.361,large,#FF0000,#FFFFFF,2
+Peinado,Stratovolcano,-26.623,-68.116,large,#FF0000,#FFFFFF,2
+"Blanco, Cerro",Caldera,-26.7657,-67.746,large,#FF0000,#FFFFFF,2
+Tipas,Complex,-27.196,-68.561,large,#FF0000,#FFFFFF,2
+Rapa Nui,Shield(s),-27.114,-109.356,large,#FF0000,#FFFFFF,2
+Tupungatito,Stratovolcano,-33.425,-69.797,large,#FF0000,#FFFFFF,2
+San Jose,Stratovolcano(es),-33.789,-69.895,large,#FF0000,#FFFFFF,2
+Maipo,Caldera,-34.164,-69.832,large,#FF0000,#FFFFFF,2
+Palomo,Stratovolcano,-34.608,-70.295,large,#FF0000,#FFFFFF,2
+"Atuel, Caldera del",Caldera,-34.592,-69.921,large,#FF0000,#FFFFFF,2
+Risco Plateado,Stratovolcano,-34.917,-69.981,large,#FF0000,#FFFFFF,2
+Tinguiririca,Stratovolcano,-34.814,-70.352,large,#FF0000,#FFFFFF,2
+Planchon-Peteroa,Stratovolcano(es),-35.223,-70.568,large,#FF0000,#FFFFFF,2
+Infiernillo,Volcanic field,-35.123,-69.9,large,#FF0000,#FFFFFF,2
+Calabozos,Caldera,-35.558,-70.496,large,#FF0000,#FFFFFF,2
+Descabezado Grande,Stratovolcano(es),-35.58,-70.75,large,#FF0000,#FFFFFF,2
+"Azul, Cerro",Stratovolcano,-35.653,-70.761,large,#FF0000,#FFFFFF,2
+"Maule, Laguna del",Caldera,-36.058,-70.492,large,#FF0000,#FFFFFF,2
+San Pedro-Pellado,Stratovolcano(es),-35.989,-70.849,large,#FF0000,#FFFFFF,2
+"Longavi, Nevado de",Stratovolcano,-36.1959,-71.1641,large,#FF0000,#FFFFFF,2
+"Blancas, Lomas",Stratovolcano,-36.286,-71.009,large,#FF0000,#FFFFFF,2
+"Resago, Volcan",Pyroclastic cone,-36.4606,-70.9033,large,#FF0000,#FFFFFF,2
+Payun Matru,Volcanic field,-36.422,-69.241,large,#FF0000,#FFFFFF,2
+"Chillan, Nevados de",Stratovolcano,-36.868,-71.378,large,#FF0000,#FFFFFF,2
+Tromen Volcanic Plateau,Stratovolcano(es),-37.144,-70.033,large,#FF0000,#FFFFFF,2
+Antuco,Stratovolcano,-37.406,-71.349,large,#FF0000,#FFFFFF,2
+Copahue,Stratovolcano,-37.856,-71.183,large,#FF0000,#FFFFFF,2
+Callaqui,Stratovolcano,-37.92,-71.45,large,#FF0000,#FFFFFF,2
+Tolhuaca,Stratovolcano,-38.31,-71.645,large,#FF0000,#FFFFFF,2
+Lonquimay,Stratovolcano,-38.379,-71.586,large,#FF0000,#FFFFFF,2
+"Blanca, Laguna",Volcanic field,-39.02,-70.37,large,#FF0000,#FFFFFF,2
+Llaima,Stratovolcano,-38.692,-71.729,large,#FF0000,#FFFFFF,2
+Sollipulli,Caldera,-38.97,-71.52,large,#FF0000,#FFFFFF,2
+Caburgua-Huelemolle,Volcanic field,-39.25,-71.75,large,#FF0000,#FFFFFF,2
+Villarrica,Stratovolcano,-39.42,-71.93,large,#FF0000,#FFFFFF,2
+Quetrupillan,Stratovolcano,-39.496,-71.722,large,#FF0000,#FFFFFF,2
+Lanin,Stratovolcano,-39.637,-71.502,large,#FF0000,#FFFFFF,2
+Huanquihue Group,Stratovolcano(es),-39.887,-71.58,large,#FF0000,#FFFFFF,2
+Mocho-Choshuenco,Stratovolcano(es),-39.927,-72.027,large,#FF0000,#FFFFFF,2
+Carran-Los Venados,Pyroclastic cone(s),-40.35,-72.07,large,#FF0000,#FFFFFF,2
+Puyehue-Cordon Caulle,Stratovolcano,-40.59,-72.117,large,#FF0000,#FFFFFF,2
+Antillanca Volcanic Complex,Stratovolcano(es),-40.783,-72.15,large,#FF0000,#FFFFFF,2
+Puntiagudo-Cordon Cenizos,Stratovolcano,-40.969,-72.264,large,#FF0000,#FFFFFF,2
+Osorno,Stratovolcano,-41.105,-72.496,large,#FF0000,#FFFFFF,2
+Tronador,Stratovolcano,-41.157,-71.885,large,#FF0000,#FFFFFF,2
+Cayutue-La Vigueria,Volcanic field,-41.3,-72.27,large,#FF0000,#FFFFFF,2
+Calbuco,Stratovolcano,-41.33,-72.618,large,#FF0000,#FFFFFF,2
+Yate,Stratovolcano,-41.755,-72.396,large,#FF0000,#FFFFFF,2
+Hornopiren,Stratovolcano,-41.874,-72.431,large,#FF0000,#FFFFFF,2
+Apagado,Pyroclastic cone,-41.88,-72.58,large,#FF0000,#FFFFFF,2
+Crater Basalt Volcanic Field,Volcanic field,-42.018,-70.194,large,#FF0000,#FFFFFF,2
+Huequi,Lava dome(s),-42.377,-72.578,large,#FF0000,#FFFFFF,2
+Michinmahuida,Stratovolcano,-42.799,-72.445,large,#FF0000,#FFFFFF,2
+Chaiten,Caldera,-42.8349,-72.6514,large,#FF0000,#FFFFFF,2
+Yanteles,Stratovolcano(es),-43.469,-72.782,large,#FF0000,#FFFFFF,2
+Corcovado,Stratovolcano,-43.189,-72.794,large,#FF0000,#FFFFFF,2
+Melimoyu,Stratovolcano,-44.08,-72.88,large,#FF0000,#FFFFFF,2
+Puyuhuapi,Pyroclastic cone(s),-44.3,-72.53,large,#FF0000,#FFFFFF,2
+Mentolat,Stratovolcano,-44.7,-73.08,large,#FF0000,#FFFFFF,2
+Cay,Stratovolcano,-45.059,-72.984,large,#FF0000,#FFFFFF,2
+Maca,Stratovolcano,-45.1,-73.17,large,#FF0000,#FFFFFF,2
+"Hudson, Cerro",Stratovolcano,-45.9,-72.97,large,#FF0000,#FFFFFF,2
+Lautaro,Stratovolcano,-49.019,-73.504,large,#FF0000,#FFFFFF,2
+Aguilera,Stratovolcano,-50.33,-73.75,large,#FF0000,#FFFFFF,2
+Reclus,Pyroclastic cone,-50.9395,-73.5802,large,#FF0000,#FFFFFF,2
+Meullin,Volcanic field,-45.22,-73.05,large,#FF0000,#FFFFFF,2
+"Burney, Monte",Stratovolcano,-52.33,-73.4,large,#FF0000,#FFFFFF,2
+Pali-Aike Volcanic Field,Volcanic field,-52.082,-69.698,large,#FF0000,#FFFFFF,2
+Fueguino,Lava dome(s),-54.97,-70.262,large,#FF0000,#FFFFFF,2
+Saba,Stratovolcano,17.63,-63.23,large,#FF0000,#FFFFFF,2
+"Quill, The",Stratovolcano,17.478,-62.96,large,#FF0000,#FFFFFF,2
+Liamuiga,Stratovolcano,17.37,-62.8,large,#FF0000,#FFFFFF,2
+Nevis Peak,Stratovolcano,17.15,-62.58,large,#FF0000,#FFFFFF,2
+Soufriere Hills,Stratovolcano,16.72,-62.18,large,#FF0000,#FFFFFF,2
+Soufriere Guadeloupe,Stratovolcano,16.044,-61.664,large,#FF0000,#FFFFFF,2
+"Diables, Morne aux",Lava dome(s),15.612,-61.43,large,#FF0000,#FFFFFF,2
+"Diablotins, Morne",Stratovolcano,15.503,-61.397,large,#FF0000,#FFFFFF,2
+"Trois Pitons, Morne",Complex,15.37,-61.33,large,#FF0000,#FFFFFF,2
+"Watt, Morne",Stratovolcano(es),15.307,-61.305,large,#FF0000,#FFFFFF,2
+"Plat Pays, Morne",Stratovolcano,15.255,-61.341,large,#FF0000,#FFFFFF,2
+Pelee,Stratovolcano,14.809,-61.166,large,#FF0000,#FFFFFF,2
+Qualibou,Caldera,13.83,-61.05,large,#FF0000,#FFFFFF,2
+Soufriere St. Vincent,Stratovolcano,13.33,-61.18,large,#FF0000,#FFFFFF,2
+Kick 'em Jenny,Complex,12.3,-61.64,large,#FF0000,#FFFFFF,2
+St. Catherine,Stratovolcano,12.15,-61.67,large,#FF0000,#FFFFFF,2
+Snaefellsjokull,Stratovolcano,64.8,-23.783,large,#FF0000,#FFFFFF,2
+Helgrindur,Volcanic field,64.866,-23.283,large,#FF0000,#FFFFFF,2
+Ljosufjoll,Volcanic field,64.9,-22.483,large,#FF0000,#FFFFFF,2
+Reykjanes,Crater rows,63.817,-22.717,large,#FF0000,#FFFFFF,2
+Eldey,Fissure vent,63.733,-23,large,#FF0000,#FFFFFF,2
+Krysuvik-Trolladyngja,Crater rows,63.917,-22.067,large,#FF0000,#FFFFFF,2
+Fagradalsfjall,Fissure vent,63.895,-22.258,large,#FF0000,#FFFFFF,2
+Brennisteinsfjoll,Crater rows,63.933,-21.783,large,#FF0000,#FFFFFF,2
+Hengill,Crater rows,64.083,-21.416,large,#FF0000,#FFFFFF,2
+Hromundartindur,Stratovolcano,64.083,-21.333,large,#FF0000,#FFFFFF,2
+Grimsnes,Volcanic field,64.05,-20.883,large,#FF0000,#FFFFFF,2
+Prestahnukur,Fissure vent(s),64.583,-20.666,large,#FF0000,#FFFFFF,2
+Oddnyjarhnjukur-Langjokull,Fissure vent(s),64.85,-19.7,large,#FF0000,#FFFFFF,2
+Hofsjokull,Fissure vent(s),64.833,-18.766,large,#FF0000,#FFFFFF,2
+Vestmannaeyjar,Fissure vent(s),63.416,-20.266,large,#FF0000,#FFFFFF,2
+Eyjafjallajokull,Stratovolcano,63.633,-19.633,large,#FF0000,#FFFFFF,2
+Katla,Fissure vent(s),63.633,-19.083,large,#FF0000,#FFFFFF,2
+Tindfjallajokull,Stratovolcano,63.783,-19.716,large,#FF0000,#FFFFFF,2
+Torfajokull,Stratovolcano,63.892,-19.122,large,#FF0000,#FFFFFF,2
+Hekla,Stratovolcano,63.983,-19.666,large,#FF0000,#FFFFFF,2
+Grimsvotn,Caldera,64.416,-17.316,large,#FF0000,#FFFFFF,2
+Thordarhyrna,Stratovolcano,64.267,-17.617,large,#FF0000,#FFFFFF,2
+Bardarbunga,Stratovolcano,64.633,-17.516,large,#FF0000,#FFFFFF,2
+Tungnafellsjokull,Stratovolcano,64.75,-17.916,large,#FF0000,#FFFFFF,2
+Kverkfjoll,Stratovolcano,64.653,-16.647,large,#FF0000,#FFFFFF,2
+Askja,Stratovolcano,65.033,-16.783,large,#FF0000,#FFFFFF,2
+Fremrinamar,Stratovolcano,65.416,-16.666,large,#FF0000,#FFFFFF,2
+Krafla,Caldera,65.715,-16.728,large,#FF0000,#FFFFFF,2
+Heidarspordar,Fissure vent,65.583,-16.817,large,#FF0000,#FFFFFF,2
+Theistareykir,Shield,65.883,-16.967,large,#FF0000,#FFFFFF,2
+Tjornes Fracture Zone,Fissure vent,66.309,-17.118,large,#FF0000,#FFFFFF,2
+Oraefajokull,Stratovolcano,64,-16.65,large,#FF0000,#FFFFFF,2
+Esjufjoll,Stratovolcano,64.25,-16.583,large,#FF0000,#FFFFFF,2
+Snaefell,Stratovolcano,64.798,-15.56,large,#FF0000,#FFFFFF,2
+Kolbeinsey Ridge,Fissure vent,66.67,-18.5,large,#FF0000,#FFFFFF,2
+Jan Mayen,Stratovolcano,71.082,-8.155,large,#FF0000,#FFFFFF,2
+East Gakkel Ridge at 85°E,Fissure vent,85.608,85.25,large,#FF0000,#FFFFFF,2
+Pico Fracture Zone,Fissure vent,38.75,-38.08,large,#FF0000,#FFFFFF,2
+Flores,Stratovolcano(es),39.462,-31.216,large,#FF0000,#FFFFFF,2
+Fayal,Stratovolcano,38.576,-28.713,large,#FF0000,#FFFFFF,2
+Pico,Stratovolcano,38.47,-28.4,large,#FF0000,#FFFFFF,2
+Sao Jorge,Fissure vent,38.65,-28.08,large,#FF0000,#FFFFFF,2
+Graciosa,Stratovolcano,39.02,-27.97,large,#FF0000,#FFFFFF,2
+Terceira,Stratovolcano(es),38.73,-27.32,large,#FF0000,#FFFFFF,2
+Don Joao de Castro Bank,Shield,38.23,-26.63,large,#FF0000,#FFFFFF,2
+Sete Cidades,Stratovolcano,37.865,-25.785,large,#FF0000,#FFFFFF,2
+Picos Fissural Volcanic System,Fissure vent,37.78,-25.67,large,#FF0000,#FFFFFF,2
+Agua de Pau,Stratovolcano,37.77,-25.47,large,#FF0000,#FFFFFF,2
+Furnas,Stratovolcano,37.77,-25.32,large,#FF0000,#FFFFFF,2
+Monaco Bank,Fissure vent,37.6,-25.88,large,#FF0000,#FFFFFF,2
+Madeira,Shield,32.73,-16.97,large,#FF0000,#FFFFFF,2
+La Palma,Stratovolcano(es),28.57,-17.83,large,#FF0000,#FFFFFF,2
+Hierro,Shield,27.73,-18.03,large,#FF0000,#FFFFFF,2
+Tenerife,Stratovolcano,28.271,-16.641,large,#FF0000,#FFFFFF,2
+Gran Canaria,Fissure vent(s),28,-15.58,large,#FF0000,#FFFFFF,2
+Fuerteventura,Fissure vent(s),28.358,-14.02,large,#FF0000,#FFFFFF,2
+Lanzarote,Fissure vent(s),29.03,-13.63,large,#FF0000,#FFFFFF,2
+Fogo,Stratovolcano,14.95,-24.35,large,#FF0000,#FFFFFF,2
+Brava,Stratovolcano,14.8514,-24.7041,large,#FF0000,#FFFFFF,2
+Romanche Fracture Zone,Fissure vent,-0.433,-19.596,large,#FF0000,#FFFFFF,2
+Ascension,Stratovolcano,-7.9458,-14.3667,large,#FF0000,#FFFFFF,2
+Walvis Ridge at 33°S,Cone,-32.958,-5.22,large,#FF0000,#FFFFFF,2
+Tristan da Cunha,Shield,-37.092,-12.28,large,#FF0000,#FFFFFF,2
+Nightingale Island,Stratovolcano,-37.42,-12.48,large,#FF0000,#FFFFFF,2
+Bouvet,Shield,-54.408,3.351,large,#FF0000,#FFFFFF,2
+Buckle Island,Stratovolcano,-66.78,163.25,large,#FF0000,#FFFFFF,2
+Young Island,Stratovolcano,-66.42,162.47,large,#FF0000,#FFFFFF,2
+Sturge Island,Stratovolcano,-67.4,164.83,large,#FF0000,#FFFFFF,2
+"Pleiades, The",Stratovolcano,-72.67,165.5,large,#FF0000,#FFFFFF,2
+Melbourne,Stratovolcano,-74.35,164.7,large,#FF0000,#FFFFFF,2
+Unnamed,Caldera,-76.83,163,large,#FF0000,#FFFFFF,2
+Morning,Shield,-78.5,163.53,large,#FF0000,#FFFFFF,2
+Erebus,Stratovolcano,-77.53,167.17,large,#FF0000,#FFFFFF,2
+Royal Society Range,Pyroclastic cone(s),-78.25,163.33,large,#FF0000,#FFFFFF,2
+Berlin,Shield(s),-76.05,-136,large,#FF0000,#FFFFFF,2
+Andrus,Shield(s),-75.8,-132.33,large,#FF0000,#FFFFFF,2
+Takahe,Shield,-76.28,-112.08,large,#FF0000,#FFFFFF,2
+Hudson Mountains,Stratovolcano(es),-74.33,-99.42,large,#FF0000,#FFFFFF,2
+Deception Island,Caldera,-62.9567,-60.6367,large,#FF0000,#FFFFFF,2
+Penguin Island,Stratovolcano,-62.1,-57.93,large,#FF0000,#FFFFFF,2
+Bridgeman Island,Stratovolcano,-62.063,-56.713,large,#FF0000,#FFFFFF,2
+Paulet,Pyroclastic cone,-63.579,-55.78,large,#FF0000,#FFFFFF,2
+Southern Thule,Stratovolcano(es),-59.442,-27.225,large,#FF0000,#FFFFFF,2
+Bristol Island,Stratovolcano,-59.017,-26.533,large,#FF0000,#FFFFFF,2
+Montagu Island,Shield,-58.445,-26.374,large,#FF0000,#FFFFFF,2
+Saunders,Stratovolcano,-57.8,-26.483,large,#FF0000,#FFFFFF,2
+Candlemas Island,Stratovolcano,-57.08,-26.67,large,#FF0000,#FFFFFF,2
+Hodson,Stratovolcano,-56.712,-27.176,large,#FF0000,#FFFFFF,2
+Leskov Island,Stratovolcano,-56.656,-28.14,large,#FF0000,#FFFFFF,2
+Zavodovski,Stratovolcano,-56.3,-27.57,large,#FF0000,#FFFFFF,2
+Protector Seamounts,Volcanic field,-55.912,-28.167,large,#FF0000,#FFFFFF,2
+Mount Haddington Volcanic Field,Shield,-64.15,-57.75,large,#FF0000,#FFFFFF,2
+Melville,Stratovolcano,-62.02,-57.67,large,#FF0000,#FFFFFF,2
